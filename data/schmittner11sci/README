@@ -1,0 +1,23 @@
+Data download for
+
+Schmittner, A., Urban N. M., Shakun, J. D., Mahowald, N. M., Clark, P. U., Bartlein, P. J., Mix, A. C., and Rosell-Mele A. (2011)
+Climate Sensitivity Estimated From Temperature Reconstructions of the Last Glacial Maximum, Science.
+
+ 
+The Bartlein et al. (2010) dataset is available here: http://www.springerlink.com/content/2762k2451307l623/382_2010_Article_904_ESM.html.
+ 
+
+The MARGO (2009) dataset is available at NOAA (http://www.ncdc.noaa.gov/paleo/pubs/margo2009/margo2009.html). 
+Using these data I've produced a netcdf file that you can download here: http://people.oregonstate.edu/~schmita2/data/schmittner11sci/margo09.nc.
+
+Shakun et al. LGM temperature anomalies are available as a combined excel file (http://people.oregonstate.edu/~schmita2/data/schmittner11sci/LGM_deltaT_synthesis_Shakun_etal_2011.xlsx), or as three separate netcdf files containing updated MARGO grid points (http://people.oregonstate.edu/~schmita2/data/schmittner11sci/dt_updated_MARGO.nc), other ocean grid points (http://people.oregonstate.edu/~schmita2/data/schmittner11sci/dt_other_ocean.nc), and land grid points (http://people.oregonstate.edu/~schmita2/data/schmittner11sci/dt_other_land_2x2.nc) on a 2x2 grid. Note that the updates MARGO grid points should replace the corresponding data in the original MARGO dataset. Table with references (http://people.oregonstate.edu/~schmita2/data/schmittner11sci/Shakun_table.pdf).
+
+Here are results from the UVic model simulations from the pre-industrial control and LGM simulations: http://people.oregonstate.edu/~schmita2/data/schmittner11sci/sat_sst_aice.tar.gz
+
+Here are the probability density functions PDFs (Figure 3; http://people.oregonstate.edu/~schmita2/data/schmittner11sci/ECS_pdfs.txt) and the random samples from the Markov chains (http://people.oregonstate.edu/~schmita2/data/schmittner11sci/ECS_chains.txt.gz) from which the pdfs were derived.
+
+LGM dust forcing fields are here (uploaded Sep 15, 2014):
+http://people.oregonstate.edu/~schmita2/data/schmittner11sci/LGM_dlwf_mth.nc
+http://people.oregonstate.edu/~schmita2/data/schmittner11sci/LGM_dswf_mth.nc
+
+Andreas Schmittner, Nov. 4, 2011

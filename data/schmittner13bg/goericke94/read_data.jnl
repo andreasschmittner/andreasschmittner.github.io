@@ -1,0 +1,4 @@
+file/var=lat,lon0,c13poc,temp,co2aq,ep,logco2 Goericke_1994_d13C.dat
+let lon = lon0*(-1)	! longitude
+
+

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Assessing Climate Model Simulations of Last Glacial Maximum Ocean Circulation With Carbon Isotopes</title>
+<link rel="stylesheet" type="text/css" href="http://people.oregonstate.edu/~schmita2/test2.css">
+</head>
+
+<body>
+<h1>Assessing Climate Model Simulations of Last Glacial Maximum Ocean Circulation With Carbon Isotopes</h1>
+
+<div id="header" style="height:40px;width:1100px">
+
+<div style="width:1100px;float:left;margin-bottom:25px;">
+<ul class="menue">
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2">Andreas' Home</a></li>
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2/projects.html">Andreas' Projects</a></li>
+<li class="menue"><a class="menue" href="#results">Results</a></li>
+<li class="menue"><a class="menue" href="#publications">Publications</a></li>
+<li class="menue"><a class="menue" href="#presentations">Presentations</a></li>
+<li class="menue"><a class="menue" href="#people">People</a></li>
+</ul>
+</div>
+
+</div><!--header-->
+
+<div id="container" style="width:1100px">
+
+<div id="links" style="float:right;width:300px;margin:0px 0px 0px 0px">
+<p style="text-align:right"><b>Related Links</b></p>
+<ul class="menueright">
+<li><a class="menueright" href="http://people.oregonstate.edu/~schmita2/Models/MOBI/index.html">MOBI</a></li>
+<li><a class="menueright" href="https://github.com/samarkhatiwala/tmm">TMM</a></li>
+<li><a class="menueright" href="PMIP_ocean_WS.html">PMIP Ocean Workshop Dec 4-6, 2014</a></li>
+</ul>
+</div><!--Menueright-->
+
+<h2> Description </h2>
+<p>Simulations of ocean circulation during the Last Glacial Maximum (LGM; 20,000 years ago) performed by various climate 
+modeling groups around the world for the Paleoclimate Modeling Intercomparison Project (PMIP3) will be assessed 
+using carbon isotope measurements from the deep sea (figure). Since the PMIP3 models 
+don't include carbon isotopes we will use the Transport Matrix Method (TMM) developed by Khatiwala et al. (2005) and 
+Khatiwala (2007) in conjunction with models of biogeochemical and isotope cycling (Schmittner et al. 2013).</p>
+
+<div id="figurebox" style="float:right;width:500px;border:1px solid #ccc;margin:10px 10px 10px 10px">
+<div id="figure" style="float:right;width:500px;overflow:hidden">
+<img src="d13c_xav_t3.png" style="margin:-20px -50px -50px -40px">
+</div><!--figure-->
+<div style="width:450px;margin:0px 10px 10px 10px"> 
+<p>Observed &#948<sup>13</sup>C distribution in the water column (top; Schmittner et al., 2013) and in surface
+(Late Holocene) sediments (second from top), in LGM sediments (third from top), and the LGM-LH difference (bottom). 
+From Schmittner (2012; PAGES News).</p></div>
+</div><!--figurebox-->
+
+<h3>Participating Modeling Groups:</h3>
+<p>CSIRO, GFDL, GISS, KCM, MIROC, MPI, MRI, NorESM-L, NCAR, IPSL</p>
+
+<div>
+<h2> Funded by </h2> <p>the National Science Foundation's Marine Geology and Geophysics Program</p>
+</div>
+
+<div id="people" style="width:500px;float:left">
+<a id="people"><h2>People</h2></a>
+<ul>
+<li><a href="http://people.oregonstate.edu/~schmita2/">Andreas Schmittner</a>, Principle Investigator<br>
+<li><a href="http://www.ldeo.columbia.edu/~spk/">Samar Khatiwala</a>, PI, Oxford University, UK<br>
+<li><a href="http://www.ldeo.columbia.edu/user/boba"> Robert F. Anderson</a>, PI, Columbia University<br>
+<li>Chandranath Basak, Postdoctoral Researcher, Columbia University<br>
+</ul>
+<h3> Collaborators </h3>
+<ul>
+<li>R. J. Stouffer (GFDL)
+<li>J. P. Dunne (GFDL)
+<li>K. Lindsay (NCAR)
+<li>U. Mikolajewicz (MPI)
+<li>S. Murikami (MRI)
+<li>P. Heimbach (MIT)
+<li>B. Schneider (U. Kiel)
+<li>A. Legrande (GISS)
+<li>M. Kageyama (IPSL)
+<li>A. Abe-Ouchi (MIROC)
+<li>S. J. Phipps (CSIRO)
+<li>G. Lohmann (AWI)
+<li>Z. Zhang (NorESM)
+</ul>
+</div><!--People-->
+
+<div><a id="results"><h2>Results</h2></a>
+<p>Analysis of the Paleoclimate Model Intercomparson Project 3 data of deep ocean circulation shows that the 
+models all consistently simulate a stronger Atlantic Meridional Overturning Circulation (AMOC) for the LGM compared with 
+their pre-industrial control simulations (<a href="#BS12">Breeden and Schmittner, 2012</a>; 
+<a href="#MS13a"> Muglia and Schmittner, 2013a</a>) 
+in contrast to observational estimates (<a href="#MS13b">Muglia and Schmittner, 2013b</a>).
+</div><!--results-->
+
+<!--div><a id="data"><h2>Data</h2></a>
+<ul>
+</div><!--Data-->
+
+<div id="publications" style="width:1100px;float:left">
+<a id="publications"><h2>Publications</h2></a>
+
+<li>Schmittner, A., Gruber, N., Mix, A. C., Key, R. M., Tagliabue, A., and Westberry, T. K.  (2013) <br>
+<b>Biology and air-sea gas exchange controls on the distribution of carbon isotope ratios (&#948<sup>13</sup>C) in the ocean</b> 
+<div class="journal"><i>Biogeosciences,</i> 10, 5793-5816, doi:10.5194/bgd-10-5793-2013.</div>
+<div id="publinks" style="text-align:right">
+<a class="publinks"href="http://www.biogeosciences.net/10/5793/2013/bg-10-5793-2013.html"> html </a>  
+<a class="publinks" href="http://cdiac.ornl.gov/oceans/Schmittner13bg.html"> global synthesis of (&#948<sup>13</sup>C) observations </a> 
+<a class="publinks" href="http://www.biogeosciences.net/10/5793/2013/bg-10-5793-2013-supplement.zip"> model code & obs </a></div>
+
+<li>Schmittner, A. (2012)<br>
+<b>Marine nutrient cycling - How will the ocean's capacity of biological carbon pumping change?</b>
+<div class="journal">in <i>Paired Perspectives on Global Change PAGES News,</i> vol. 20, nr. 1, edited by N. R. Bondre and T. Kiefer, Past Global Changes.</div>
+<div id="publinks" style="text-align:right">
+<a class="publinks" href="http://www.pages-igbp.org/download/docs/newsletter/2012-1/PAGES%20news%202012-1%2816-17%29_Marine%20nutrient%20cycling.pdf"> pdf </a>
+<a class="publinks" href="http://www.pages-igbp.org/products/pages-news/1046-20-1-paired-perspectives-on-global-change"> html </a></div> 
+
+<li>Khatiwala, S. (2007)<br>
+<b>A computational framework for simulation of biogeochemical tracers in the ocean</b>
+<div class="journal"><i>Glob. Biogeochem. Cy.</i>, 21, doi: 10.1029/2007GB002923.</div>
+<br>
+
+<li>Khatiwala, S., M. Visbeck, and M. Cane (2005)<br>
+<b> Accelerated simulation of passive tracers in ocean circulation models</b>
+<div class="journal"><i> Ocean Modell.</i>, 9, 51-69.</div>
+
+</div><!--Publications-->
+
+<div id="presentations" style="width:1100px;float:left">
+<a id="presentations"><h2>Presentations</h2></a>
+
+<li>Schmittner, A., Egbert, G., and Green, M. (2014)<br>
+<b>Modeling Tidal Mixing, Past, Present, and Future</b> (Oral)<br>
+<div class="journal">Ocean Sciences Meeting, Feb. 27, Honolulu <a class="publinks" href="http://people.oregonstate.edu/~schmita2/Presentations/OSM14_Modeling_TM.pdf"> pdf </a></div>
+<br>
+<li>Schmittner, A. and Khatiwala, S. (2013)<br>
+<b>Offline Modeling of Biogeochemical Tracers and Isotopes</b> (Oral)<br>
+<div class="journal"> PMIP Ocean Workshop 2013, Understanding Changes since the Last Glacial Maximum, Dec. 4-6, Corvallis, Oregon, USA. 
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/Presentations/schmittner13pmip_ocean_workshop.pdf"> pdf </a></div>
+<br>
+<li>Muglia, J., and Schmittner, A. (2013)<br>
+<b>Atlantic Circulation During the Last Glacial Maximum Simulated by PMIP3 Climate Models</b> (Poster)<br>
+<div class="journal"> PMIP Ocean Workshop 2013, Understanding Changes since the Last Glacial Maximum, Dec. 4-6, Corvallis, Oregon, USA.
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/Presentations/muglia13pmip_ocean_workshop.pdf"> pdf </a></div>
+<br>
+<li>Muglia, J., and Schmittner, A. (2013)<br>
+<b>Ocean Circulation During the Last Glacial Maximum Simulated by PMIP3 Climate Models</b> (Poster)<br>
+<div class="journal"> Key Uncertainties in the Global Carbon Cycle: Perspectives across terrestrial and ocean ecosystems, Aug. 6-10, 2013, NCAR, Boulder, Colorado, USA.
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/Presentations/muglia13ncar.pdf"> pdf </a></div>
+<br>
+<li><a id="BS12">Breeden, M., and Schmittner, A. (2012)</a><br>
+<b>Last Glacial Maximum Ocean Circulation Simulated by PMIP3 Climate Models</b> (Poster)<br>
+<div class="journal"> American Geophysical Union Fall Meeting, Dec. 3-7, San Francisco, California, USA.
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/Presentations/breeden12agu_Poster_PMIP3_AMOC.pdf"> pdf </a></div>
+<br>
+</div><!--Presentations-->
+
+
+<br>
+
+</div><!--container-->

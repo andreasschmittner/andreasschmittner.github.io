@@ -1,0 +1,412 @@
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, table {
+	background:transparent;
+	border:0;
+	font-size:100%;
+	margin:0;
+	outline:0;
+	padding:0;
+	vertical-align:baseline;
+}
+body {
+	line-height:1;
+}
+:focus {
+	outline:0;
+}
+/* general site-wide layouts -------------------------------------- */
+body {
+	background: url('../images/bodybg.png') 0 0 repeat-x;
+	color: #000;
+	font: normal 14px/20px arial, helvetica, sans-serif;
+	padding-bottom:  0px; margin: 0;
+}
+a {
+	color: #2693D6;
+}
+a:hover {
+	color: #158155;
+}
+h1, h2 {
+	color: #158155;
+}
+h1 {
+	font-size: 22px;
+}
+h2 {
+	font-size: 18px;
+	margin: 20px 0 0 0;
+}
+dl dt {
+	clear: left;
+}
+dl dt, dl dd {
+	float: left;
+	padding-bottom: 7px;
+}
+dl dd {
+	clear: right;
+}
+#pageFrame {
+	border: 0px solid #012e4d;
+	border-top: 0;
+	margin: 0 auto;
+	padding: 0;
+	text-align: left;
+	width: 100%;
+    background-color: transparent;
+}
+
+#pageWrapper {
+	clear: both;
+	margin: 0 auto;
+	position: relative;
+	width: 940px;
+	z-index: 1000;
+	padding-top: 15px;
+}
+.blueButton {
+	background-color: #41619C;
+	display: inline-block;
+	font-weight: bold;
+	padding: 3px;
+	border-collapse: collapse
+}
+.blueButton a {
+	background-color: #7395BF;
+	border: 1px solid #AFC2DA;
+	color: #FFFFFF;
+	font-weight: bold;
+	margin: 0;
+	padding: 2px 4px;
+	text-decoration: none;
+	display: inline-block;
+}
+.blueButton a:hover {
+	color: #ecf0f1;
+}
+/*
+.redSmallHeader {
+	color: #f5690d;
+	font-weight: bold;
+	font-size: 1.1em;
+	display: inline-block;
+	width: 100%;
+}
+12.4.2014 - MSTEEN */
+.blackSmallHeader {
+	font-weight: bold;
+	font-size: 1.1em;
+	display: inline-block;
+	width: 100%;
+}
+.bottomBorder {
+	border-bottom: 1px solid #c1c1c1;
+}
+.innerPageTop {
+	display: inline-block;
+	width: 100%;
+}
+.innerPageTop .blueButton {
+	margin-top: 5px;
+}
+.tableContainer {  background-color: #fff; padding: 10px; } /* 11.20.14 - MSTEEN */
+.tabbedContent {  border-left: 1px solid #C8D7E0; border-right: 1px solid #C8D7E0; border-bottom: 1px solid #C8D7E0; background-color: #fff; padding: 10px; } /* 11.20.14 - MSTEEN */
+
+ /* 10.20.14 - ATANG */
+
+#dueNow {
+	margin-left: -15px;
+} /* 10.20.14 - ATANG */
+
+.pagination {
+	padding-left: 15px;
+}
+
+.rpprTable {
+	clear:both;
+	border-collapse: collapse;
+	margin: 0 0 10px 0;
+	padding:0;
+	width: 99.9%;
+	word-wrap: normal;
+	font-size:1em;
+}
+
+.rpprTable td {
+	vertical-align: top;
+	padding: 10px;
+	border: 1px solid #ced6da;
+} /* 10.20.14 - ATANG */
+
+/*
+.rpprTable th {
+	background-color: #EDF1F7;
+	border-bottom: 1px solid #B2B4B7;
+	padding:8px;
+	text-align: left;
+} */
+
+.rpprTable th { border: none !important; padding: 10px; text-align: left; vertical-align: top; text-transform: none; color:#FFF;
+
+background: #017d96; /* Old browsers */
+background: -moz-linear-gradient(top,  #017d96 0%, #01697f 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#017d96), color-stop(100%,#01697f)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #017d96 0%,#01697f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #017d96 0%,#01697f 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #017d96 0%,#01697f 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #017d96 0%,#01697f 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#017d96', endColorstr='#01697f',GradientType=0 ); /* IE6-8 */
+} /* 10.20.14 - ATANG */
+
+.rpprTable th a {
+	color: #fff;
+} /* 10.20.14 - ATANG */
+
+.rpprTable th a:hover {
+	color: #adf8f2;
+} /* 10.20.14 - ATANG */
+
+.rpprTable th.noBGColor {
+	background-color: transparent;
+}
+
+.rpprTable tr.odd {
+	background-color: #fff;
+}
+
+.rpprTable tr.even {
+	background-color:#f5f7f8;
+}/* 10.20.14 - ATANG */
+
+.rpprTable tr.evenNoBorder {
+	background-color:#EBEBEB;
+}
+
+.rpprTable select {
+	margin-left: 23px;
+}
+/* navigation -------------------------------------- */
+ul#previewMenu {
+	float: left;
+	width: 100%;
+	padding: 0;
+	margin: 20px 0 0;
+	list-style-type: none;
+}
+
+ul#previewMenu li {
+	display: inline;
+}
+
+/* report accomplishments -------------------------------------- */
+#Accomplishments {
+	width: 750px;
+	list-style-type: none;
+}
+#Accomplishments .wideInput {
+	width: 100%;
+}
+#Accomplishments h4 {
+	margin-bottom: 7px;
+}
+#Accomplishments li {
+	padding-bottom: 35px;
+}
+#Accomplishments .firstColumn, #Accomplishments .secondColumn {
+	float: left;
+	padding-bottom: 35px;
+}
+#Accomplishments .firstColumn {
+	width: 15%;
+	clear: left;
+	text-align: right;
+	padding-right: 15px;
+}
+#Accomplishments .secondColumn {
+	width: 83%;
+	clear: right;
+}
+#Accomplishments .informationIconNSF {
+	margin: -5px 0 0 5px;
+}
+/* report preview -------------------------------------- */
+.reportPreview p {
+	margin-top: 0;
+}
+.reportPreview h3 {
+	margin: 1.5em 0 1em 0;
+}
+.reportPreview dl, .reportPreview ul {
+	list-style-type: none;
+}
+.reportPreview dt {
+	width: 300px;
+	padding-right: 50px;
+}
+.reportPreview .cover DT {
+	margin: 0;
+}
+.cover dd {
+	width: 205px;
+	font-weight: bold;
+}
+.accomplishments dt {
+	width: 11%;
+	padding-right: 50px;
+}
+.accomplishments dd {
+	width: 80%;
+}
+.products ul {
+	padding: 0 10px 15px;
+}
+.products li {
+	margin-bottom: 10px
+}
+
+.products dt {
+	text-align: right;
+	width: 11%;
+	padding-right: 10px;
+}
+.products dd {
+	width: 80%;
+}
+#citation.rpprTable select {
+	margin: 0;
+}
+.participants dt {
+	text-align: right;
+	padding-right: 10px;
+	width: 50%;
+}
+.participants dd {
+	width: 30%;
+}
+.participantsPreviewTable {
+	border: 1px solid #B2B4B7;
+	margin-bottom: 40px;
+}
+.supportingFiles {
+	padding: 20px;
+	background-color: #E7EFDF;
+	border: 1px solid #92B268;
+	margin-top:8px !important;
+}
+.supportingFiles ul {
+	list-style-type: none;
+	padding: 0 0 13px 0;
+	margin: 0;
+}
+.supportingFiles ul a {
+	padding-right: 15px;
+}
+.supportingFiles li {
+	padding-bottom: 7px;
+}
+/* overriding classes -------------------------------------- */
+.float-right {
+	float: right;
+}
+.float-left {
+	float: left;
+}
+.alignRight {
+	text-align: right;
+}
+.removeMargins {
+	margin: 0;
+}
+.clearing {
+	width: 100%;
+	display: inline-block;
+}
+.hide {
+	display: none;
+}
+.centered, td.centered, th.centered {
+	text-align: center;
+}
+.roundedCornerShadowBox {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: #7c7c7c 1px 2px 3px;
+	-moz-box-shadow: #7c7c7c 1px 2px 3px;
+	box-shadow: #7c7c7c 1px 2px 3px;
+	behavior: url(static/scripts/PIE.htc);
+}
+.bottomSpacing, li.bottomSpacing {
+	margin-bottom: 20px;
+	padding-bottom: 0;
+}
+.topSpacing {
+	margin-top: 13px;
+}
+.leftSpacing {
+	margin-left: 20px;
+}
+/* tiny output sections -------------------------------------- */
+.tinyMCEContent p {
+	margin: 10px 0;
+}
+.tinyMCEContent ol {
+	margin: 11px 0;
+	padding-left: 40px;
+}
+.tinyMCEContent ul {
+	list-style-type: disc;
+	margin: 11px 0;
+	padding-left: 40px;
+}
+/* error & warning messaging -------------------------------------- */
+.redErrorMsg, .orangeWarningMsg {
+	color: #FF0000;
+	font-weight: bold;
+	padding: 10px;
+	margin: 0 0 20px 0;
+}
+.redErrorMsg {
+	color: #FF0000;
+	background-color: #FFEFEF;
+	border: 1px solid #FF0000;
+}
+.orangeWarningMsg {
+	color: #F5690D;
+	background-color: #FFECDF;
+	border: 1px solid #F5690D;
+}
+.redErrorMsg p {
+	color: #FF0000;
+	padding-bottom: 5px;
+	font-size: 1.2em;
+}
+.orangeWarningMsg p {
+	color: #F5690D;
+	padding-bottom: 5px;
+	font-size: 1.2em;
+}
+.redErrorMsg ul, .orangeWarningMsg ul {
+	padding-left: 15px;
+}
+.redErrorMsg li, .orangeWarningMsg li {
+	list-style-type: disc;
+	padding: 0;
+}
+/* ADAPTIVE LAYOUT FOR JANUARY 2015 RELEASE */
+/* ADAPTIVE LAYOUT FOR JANUARY 2015 RELEASE */
+@media (min-width: 1200px) {
+    #primary_nav_wrap ul ul, #primary_nav_wrap ul ul li,#primary_nav_wrap ul ul li a, #primary_nav_wrap ul li,  #primary_nav_wrap ul a, #primary_nav_wrap ul ul a, #primary_nav_wrap ul ul a:hover {
+        width: 239px !important;
+    }
+	#pageWrapper, .theme-header, #masthead, #globalNavWelcomeContainer, #footer .content, #primary_nav_wrap, #primary_nav_wrap ul{
+		width: 1200px !important;
+	}
+
+
+    #pageWell {
+        width: 990px;
+    }
+}

@@ -1,0 +1,4 @@
+Apr 13, 2010: original data file Goericke_1994_d13C.txt from Alexandre Tagliabue
+	removed text colums -> Goericke_1994_d13C.dat
+	removed rows with missing lat, lon
+	note longitude is multiplied with -1 !

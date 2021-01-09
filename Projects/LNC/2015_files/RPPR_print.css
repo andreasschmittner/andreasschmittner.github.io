@@ -1,0 +1,567 @@
+/* reset all background images, colors, margins, paddings and fonts -------------------------------------- */
+div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,caption{background:transparent;border:0;font-size:100%;margin:0;outline:0;padding:0;vertical-align:baseline;}
+body{line-height:1;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+:focus{outline:0;}
+ins{text-decoration:none;}
+del{text-decoration:line-through;}
+input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}
+legend {display: none;}
+
+/* hide non printing elements -------------------------------------- */
+#masthead, #footer, .blueButton, .topLink, .exports, #ActionsContainer , a[href='#pageWrapper'], legend, .moreInfoToolTip, .informationIcon, .hidePrint {
+	display: none !important;
+}
+
+/* reset all styling  -------------------------------------- */
+body, #pageFrame, #pageWrapper {
+	width: auto;
+	height: auto;
+	background-color: #FFF;
+	background-image: none;
+	font: 10pt Arial, serif;
+	color: #000;
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+a {
+	color: #2693D6;
+}
+
+h1, h2, h3 {
+	width: 100%;
+	clear: both;
+	float: none;
+}
+
+h1, h2 {
+	color: #158155;
+}
+
+h1 {
+	font-size: 22px;
+}
+
+h2 {
+	font-size: 18px;
+}
+
+h3 {
+	font-size: 14px;
+}
+
+h2, h3 {
+	margin: 15px 0 0 0;
+	padding: 0;
+}
+
+ul {
+	padding: 0;
+	list-style-type: none;
+}
+
+p {
+	margin: 0 0 1em 0;
+}
+
+dl dt, dl dd {
+	margin-bottom: 7px;
+}
+
+dl dt {
+	float: left;
+	clear: left;
+}
+
+.redText {
+	color: #f00;
+}
+
+.rpprTable {
+	clear:both;
+	border-collapse: collapse;
+	margin: 0 0 10px 0;
+	padding:0;
+	width: 99.9%;
+	word-wrap: break-word;
+}
+
+.rpprTable th {
+	border-bottom: 1px solid #B2B4B7;
+	padding:8px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.rpprTable a {
+	color: #000;
+	text-decoration: none;
+}
+
+.rpprTable tr, .rpprTable td {
+	border-bottom: 1px solid #C8D7E0;
+	border-top: 1px solid #C8D7E0;
+}
+
+.rpprTable td {
+	padding: 10px;
+	text-align: left;
+	vertical-align: top;
+	border-bottom: 1px solid #C8D7E0;
+	border-top: 1px solid #C8D7E0;
+}
+
+.bottomBorder {
+	border-bottom: 1px solid #c1c1c1;
+	line-height: 1.3em;
+}
+
+.reportSpecialInfo {
+	padding-top: 20px;
+	font-weight: bold;
+	clear: both;
+	text-align: center;
+	width: 100%;
+}
+
+.redSmallHeader {
+    color: #F5690D;
+    display: inline-block;
+    font-size: 1.1em;
+    font-weight: bold;
+    width: 100%;
+}
+
+.middleInput {
+	width: 200px;
+}
+
+select.middleInput {
+	width: 206px;
+}
+
+.narrowInput {
+	width: 150px;
+}
+
+select.narrowInput {
+	width: 156px;
+}
+
+.extraNarrowInput {
+	width: 30px;
+}
+
+select.extraNarrowInput {
+	width: 36px;
+}
+
+.wideInput, .extraWideInput {
+    width: 99%;
+}
+
+.numberedList, .errorPageList {
+    padding-left: 22px;
+}
+
+.linearList li {
+	display: inline-block;
+	padding-right: 15px;
+	vertical-align: top;
+}
+
+.linearList label {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.small-col {
+	width: 30%;
+}
+
+.centered {
+	text-align: center;
+}
+
+.clearing {
+    width: 100%;
+	clear: both;
+}
+
+/* report summary -------------------------------------- */
+#ReportSummary, .innerReportSummary {
+	clear: both;
+	width: 100%;
+	display: inline-block;
+}
+
+#ReportSummary .leftColumn, #ReportSummary .rightColumn {
+	margin-top: 20px;
+}
+
+#ReportSummary .leftColumn {
+	padding-right: 10px;
+	border-right: 1px solid #000;
+	float: left;
+}
+
+#ReportSummary .rightColumn {
+	padding-left: 10px;
+	float: left;
+}
+
+#ReportSummary li {
+	clear: both;
+	padding-bottom: 2px;
+	margin-bottom: 5px;
+}
+
+#ReportSummary .leftColumn .firstColumn {
+	width: 131px;
+	clear: left;
+	float: left;
+}
+
+#ReportSummary .totalWidth {
+	width: 274px;
+	clear: both;
+}
+
+#ReportSummary .leftColumn .secondColumn {
+	width: 143px;
+}
+
+#ReportSummary .leftColumn ul img {
+	margin: 0 30px 0 10px;
+	vertical-align: middle;
+}
+
+#ReportSummary .rightColumn .firstColumn {
+	width: 141px;
+	clear: left;
+	float: left;
+}
+
+#ReportSummary .rightColumn .secondColumn {
+	width: 75px;
+}
+
+#ReportSummary .rightColumn .float-left {
+	float: left;
+}
+
+#ReportSummary .rightColumn ul.float-left {
+	margin-right: 10px;
+}
+
+#ReportSummaryToggle {
+	display: none;
+}
+
+/* award information -------------------------------------- */
+#AwardInformation {
+	margin-top: 20px;
+	width: 100%;
+	clear: both;
+}
+
+#AwardInformation dl.float-left {
+	float: left;
+	width: 49%;
+}
+
+#AwardInformation dl.float-right {
+	width: 49%;
+}
+
+#AwardInformation dd {
+	font-weight: bold;
+}
+
+#AwardInformation .float-left dt {
+	width: 100px;
+}
+
+#AwardInformation .float-left dd {
+	margin-left: 100px;
+}
+
+#AwardInformation .float-right dt {
+	width: 150px;
+}
+
+#AwardInformation .float-right dd {
+	margin-left: 150px;
+}
+
+/* tabs -------------------------------------- */
+.tabGroup {
+	clear: both;
+	margin: 10px 0;
+	width: 100%;
+	display: inline-block;
+}
+
+.tabGroup ul {
+	border-bottom: 1px solid #C8D7E0;
+	list-style-type: none;
+	overflow: hidden;
+	height: 36px;
+}
+
+.tabGroup .tab {
+	display: inline-block;
+	margin-right: 3px;
+	text-align: center;
+	vertical-align: top;
+}
+
+.tab a {
+	display: inline-block;
+	padding: 11px 10px;
+	color: #CCC;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.double a {
+	padding: 4px 10px;
+}
+
+.selectedTab a {
+	color: #000;
+	text-decoration: underline;
+}
+
+/* page specific -------------------------------------- */
+/* report completeness --------------------------------- */
+#CompletenessReport h2 {
+	padding: 20px 0px 10px 0px;
+}
+#CompletenessReport ul {
+	list-style: disc inside none;
+	padding-left: 20px;
+	margin-bottom: 20px;
+}
+#CompletenessReport ul li {
+	margin-bottom: 5px;
+}
+
+/*report preview*/
+.cover {padding-bottom: 20px; display: inline-block;}
+.cover dt {width: 50%; margin-right: 15px;}
+.cover dd {width: 40%; float: left;}
+.accomplishments dt, .products dt {width: 19%;}
+.accomplishments dd, .products dd {width: 70%; margin-left: 21%;}
+.participants dt {width: 80%;}
+.participants dd {width: 10%; margin-left: 81%;}
+.products dt, .participants dt {text-align: right;}
+
+/*report entry*/
+#ReportCover dt {
+	width: 30%;
+	margin-right: 15px;
+}
+
+#ReportCover dd {
+	float: left;
+	width: 50%;
+	font-weight: bold;
+}
+
+/*products*/
+.addingPublications, #ProductCategoryListing {
+	clear: both;
+	width: 100%;
+}
+
+#ProductCategoryListing {
+	float: none;
+}
+
+.addingPublications form {
+	margin-bottom: 20px;
+}
+
+.addingPublications form p {
+	margin: 7px 0 0 0;
+}
+
+.addingPublications form, .addingPublications fieldset, .addingPublications p, .addingPublications ul {
+	float: left;
+	clear: both;
+	width: 100%;
+}
+
+#Accomplishments h4.float-left {
+	float: left;
+}
+
+#Accomplishments li {
+	margin-bottom: 1em;
+	clear: both;
+	width: 100%;
+	display: inline-block;
+}
+
+#Accomplishments div.firstColumn {
+	width: 25%;
+	text-align: right;
+	margin-right: 10px;
+	float: left;
+	clear: left;
+}
+
+#Accomplishments div.secondColumn {
+	width: 70%;
+	float: left;
+	clear: right;
+}
+
+.addingPublications .radioButtonList {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.addingPublications .radioButtonList .firstColumn {
+    clear: left;
+    float: left;
+    width: 140px;
+}
+
+.addingPublications .radioButtonList .secondColumn {
+	float: left;
+	clear: right;
+}
+
+#ProductCategoryListing .indentedCitation {
+    padding-left: 25px;
+    text-indent: -25px;
+}
+
+.addingPublications ul.publicationEntry {
+	width: 100%;
+}
+
+.publicationEntry li {
+	float: left;
+	clear: both;
+	padding: 0 0 7px 0;
+	width: 100%;
+}
+
+.addingPublications .publicationEntry .firstColumn, .addingPublications .publicationEntry .secondColumn, .addingPublications .publicationEntry .thirdColumn {
+	float: left;
+	display: inline-block;
+}
+
+.addingPublications .publicationEntry .firstColumn {
+	width: 15%;
+	text-align: right;
+	margin-right: 15px;
+}
+
+.addingPublications .publicationEntry .secondColumn {
+	width: 30%;
+	margin-right: 15px;
+}
+
+.addingPublications .publicationEntry .thirdColumn {
+	width: 40%;
+}
+
+/*report search*/
+.reportSearch dt {
+	width: 20%;
+	text-align: right;
+	margin-right: 15px;
+}
+
+.reportSearch dd {
+	float: left;
+}
+
+/*participants*/
+.participantsSummaryList {
+	width: 100%;
+	display: inline-block;
+}
+
+.participantsSummaryList dt {
+	text-align: right;
+	padding-right: 15px;
+	width: 30%;
+}
+
+.participantsSummaryList dd {
+	width: 65%;
+	float: left;
+}
+
+.participantsSummaryList em {
+    display: inline-block;
+    vertical-align: top;
+	width: 25%;
+}
+
+.participantsSummaryList .partnerContributionList, .participantsSummaryList .radioButtonList, .participantsSummaryList .foreignCountryList, .foreignCountryList li {
+	width: 100%;
+	display: inline-block;
+}
+
+.participantsSummaryList .partnerContributionList .firstColumn, .participantsSummaryList .partnerContributionList .secondColumn {
+	float: left;
+	width: 50%;
+	text-align: left;
+	padding-bottom: 7px;
+}
+
+.partnerContributionList label {
+	width: 85%;
+	display: inline-block;
+}
+
+.partnerContributionList .firstColumn {
+	clear: left;
+}
+
+.partnerContributionList .secondColumn {
+	clear: right;
+}
+
+.participantsSummaryList .yearList {
+	width: 75%;
+}
+
+.yearList li {
+	float: left;
+	padding: 0 20px 5px 0;
+	text-align: left;
+	width: 25%;
+	vertical-align: top;
+}
+
+.participantsSummaryList .foreignCountryList .rightPadding {
+	padding-right: 8px;
+}
+
+.tinyMCEContent ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.tinyMCEContent ol {
+    list-style-type: decimal;
+    padding-left: 25px;
+}

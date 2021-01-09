@@ -1,0 +1,5 @@
+Dec 21, 2015: data files for Schmittner, Green, and Wilmes (2015) Glacial Ocean Overturning Intensified by Tidal Mixing in a Global Circulation Model, Geophysical Research Letters doi: 10.1002/2015GL063561
+
+file schmittner15grl_data1.tar.gz includes 2D tidal dissipation fields as output from the tide model	
+file td_n2_kv.tar.nc includes 3D fields of tidal dissipation, N^2, and diffusivities (k_v) from the climate model
+ 

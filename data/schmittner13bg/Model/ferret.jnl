@@ -1,0 +1,10 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v6.3  
+ ! Darwin 9.8.0 (ifort) - 11/30/09
+ !  4-Apr-16 14:54     
+
+use antd13c_FeL.nc
+sh da
+sha antd13c[k=1]
+sha antd13c[x=24w]
+q

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Oregon State University / University of Victoria Climate Model (OSUVic)</title>
+<link rel="stylesheet" type="text/css" href="test2.css">
+</head>
+
+<body>
+<h1> Oregon State University / University of Victoria Climate Model (OSUVic)</h1>
+
+<div id="header" style="height:40px;width:1100px">
+
+<div style="width:1100px;float:left;margin-bottom:25px;">
+<ul class="menue">
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2">Andreas' Home</a></li>
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2/models.html">Andreas' Models</a></li>
+<li class="menue"><a class="menue" href="#download">Download</a></li>
+<li class="menue"><a class="menue" href="#publications">Publications</a></li>
+<li class="menue"><a class="menue" href="OSUVic.pdf">Documentation</a></li>
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2/">Contact</a></li>
+</ul>
+</div>
+
+</div><!--header-->
+
+<div id="container" style="width:1100px">
+
+<div id="figurebox" style="float:right;width:600px;border:1px solid #ccc;margin:10px 10px 10px 10px">
+<div id="figure" style="float:right;width:600px;overflow:hidden">
+<img src="anim.gif" style="width:600px; margin:0px 0px 0px -30px">
+</div><!--figure-->
+<div style="width:585px;margin:0px 10px 10px 10px"> 
+<p>Animation of daily vertically integrated water vapor content simulated by OSUVic at T42 
+resolution (color) and orography (contour lines at 0 m from UVic grid, and 500 m and 1 km isoline 
+difference between 1 km and 6 km from PlaSim grid). </p></div>
+</div><!--figurebox-->
+
+<h2>Description</h2>
+<p>OSUVic is a climate model developed at Oregon State University by Tiago Silva and 
+Andreas Schmittner. It consists of the <a href="http://climate.uvic.ca/model/">UVic</a> Earth System Model, 
+which we amended with a simplified atmospheric general circulation model 
+(<a href="http://www.mi.uni-hamburg.de/Planet-Simul.216.0.html?&L=3">Planet Simulator</a>) coupled using
+<a href="https://verc.enes.org/oasis">OASIS</a> for coupling of surface fluxes. It includes clouds,
+water vapor, radiation, ocean circulation, sea ice and is available at two horizontal resolutions in the 
+atmosphere (T21 and T42). A detailed description can be found 
+<a href="OSUVic.pdf">here</a>. This is a contribution 
+of the NSF funded project PALEOVAR.</p>
+
+<div><a id="download"><h2>Download</h2></a>
+<ul>
+<li> <a href="download/OSUVic0.4.tar.gz">OSUVic0.4</a>
+</ul>
+</div>
+
+<h2>Installation</h2>
+<p>On UNIX/Linux platform unzip and untar the file:</p>
+<ul>
+<li>gunzip OSUVic0.4.tar.gz
+<li>tar -xvf OSUVic0.4.tar
+</ul> 
+<p>Follow installation instructions <a href="docs/osuvic0.4.htm">here<a> (click on OSUVic) or open osuvic0.4.htm in the docs subdirectory in a browser.</p>
+
+<p>Other items you may need:
+<ul>
+<li><a href="download/mk_eby_24jan08">mk_eby_24jan08</a> (modified mk script)
+<li><a href="download/UVic_2.8.coupled.tar.gz">UVic 2.8.coupled</a> (our installation of the UVic model including a few differences from the original version)
+<li><a href="download/inipar.F">inipar.F</a> (modified OASIS routine; see installation instructions)
+</ul>
+<p>For questions about installation or use contact Andreas Schmittner.</p>
+
+<div><a id="publications"><h2>Publications</h2></a>
+
+<li>Schmittner, A., Silva, T. A. M., Fraedrich, K., Kirk, E. and Lunkeit, F. (2011)<br>
+<b>Effects of Mountains and Ice Sheets on Global Ocean Circulation</b>
+<div class="journal"><i>J. Climate,</i> 24, 2814-2829, doi:10.1175/2010JCLI3982.1.</div>
+<div id="publinks" style="text-align:right"><a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/S/schmittner11jcl.pdf"> pdf </a><a class="publinks" href="http://journals.ametsoc.org/doi/abs/10.1175/2010JCLI3982.1"> html </a><a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/S/schmittner11jcl_sup.pdf"> Supplementary Material </a><a class="publinks" href="http://oregonstate.edu/ua/ncs/archives/2011/jun/scientists-unlock-keys-global-ocean-circulation"> Press Release </a></div>
+
+</div>
+
+</div><!--container-->

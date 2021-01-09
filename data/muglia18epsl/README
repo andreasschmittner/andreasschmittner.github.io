@@ -1,0 +1,13 @@
+April 9, 2019: Andreas Schmittner (aschmitt@coas.oregonstate.edu)
+	c13.nc contains modeled d13C_dic and d13C_cib from the PIC and best fitting LGM (LGM_8_SOFe) 
+		simulations from Muglia et al. (2018, EPSL,  doi:10.1016/j.epsl.2018.05.038)
+	d13C_cib = A + B*d13C_DIC, with A = 0.11, B = 0.89
+		this is calibration LA6 from Schmittner et al. (2017, PO, doi:10.1002/2016PA003072)
+		see their Tab. 2
+	The model data have been extrapolated out two grid points in order to increase the overlapp with
+		the observations
+	d13c_cib_obs are the observations mapped on the model grid
+	n15.nc contains modeled d15N_detr from the same experiments as above
+	ep.nc contains export production at 120 m
+	c13_data.csv and n15_data.csv contain the data
+	the bulk d15N data are already diagenesis corrected	

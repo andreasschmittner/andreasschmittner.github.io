@@ -1,0 +1,35 @@
+May 7, 2013
+
+These files contains the combined d13C dataset described in Schmittner et al. (2013) Biogeosciences
+
+d13c.dat is an ascii file.
+Its collumns contain the following variables:
+longitude,latitude,month,day,year,depth,temperature,salility,cfc11,cfc12,total co2,alkalinity,anthropogenic co2, radiocarbon (d14c), d13c, apparent oxygen utilization (AOU), potential tempearature,sigma 0,sigma 2,sigma 4
+It can be read from a fortran program using the simple synthax:
+
+      progam readdata
+      real lon,lat,depth,temp,salt,cfc11,cfc12,tco2
+      real alk,aco2,d14c,d13c,aou,pottemp,sig0,sig2,sig4
+      integer mon,day,year
+      open(2,file="d13c.dat")
+ 1    read(2,*,end=100) lon,lat,mon,day,year,depth,temp,salt
+     &,cfc11,cfc12,tco2,alk,aco2,d14c,d13c,aou,pottemp,sig0,sig2,sig4
+      goto 1
+ 100  continue
+      end
+
+d13c.nc is a netcdf file containing the data gridded on the World Ocean Atlas Grid.
+
+c13_CDIAC.xlsx is an excel file including the CDIAC data only.
+
+created by Andreas Schmittner (aschmitt@coas.oregonstate.edu)
+
+Jul 24, 2013
+
+The subdirectory "Model" includes the model code updates with respect to UVic ESCM 2.8, which is available at
+http://climate.uvic.ca/model/ or http://people.oregonstate.edu/~schmita2/data/schmittner09gbc/
+
+Jun 01, 2015
+
+added model output of anthropogenic d13C of model FeL (file antd13c_FeL.nc) in Model subdirectory
+

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Model of Ocean Biogeochemistry and Isotopes</title>
+<link rel="stylesheet" type="text/css" href="http://people.oregonstate.edu/~schmita2/test2.css">
+</head>
+
+<body>
+<h1> Model of Ocean Biogeochemistry and Isotopes (MOBI)</h1>
+
+<div id="header" style="height:40px;width:1100px">
+
+<div style="width:1100px;float:left;margin-bottom:25px;">
+<ul class="menue">
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2">Andreas' Home</a></li>
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2/models.html">Andreas' Models</a></li>
+<li class="menue"><a class="menue" href="#download">Download</a></li>
+<li class="menue"><a class="menue" href="#references">References</a></li>
+</ul>
+</div>
+
+</div><!--header-->
+
+<div id="container" style="width:1100px">
+
+<div id="figurebox" style="width:900px;border:1px solid #ccc;margin:10px 10px 10px 10px">
+<div id="figure" style="float:right;width:900px;overflow:hidden">
+<img src="MOBI2.0.png" style="width:900px;margin:0px 0px 0px 0px">
+</div><!--figure-->
+<div style="width:880px;margin:10px 10px 10px 10px"> 
+<p>MOBI includes three phytoplankton classes (nitrogen fixers a.k.a. diazotrophs, calcifiers a.k.a. coccolithophores and other phytoplankton),
+nitrate (NO<sub>3</sub>), phosphate (PO<sub>4</sub>) and dissolved iron (DFe) as interactive nutrients, zooplankton, 
+and detritus (dead particulate organic matter). Calcium carbonate (CaCO<sub>3</sub>) is a prognostic
+variable. Its production is calculated as a fraction of the detritus produced by coccolithophores and zooplankton and it is sinking into the deep ocean
+where it dissolves. Nitrogen (<sup>15</sup>N) and carbon (<sup>13</sup>C) 
+isotopes are included in all compartments. 
+Radiocarbon 
+(<sup>14</sup>C) is included only in the dissolved inorganic carbon (DIC) component. Dissolved 
+oxygen (O<sub>2</sub>) controls denitrification in the water column. Benthic denitrification is calculated 
+considering subgridscale bathymetry. Dissolved organic matter is calculated separately for carbon, nitrogen and phosphorous (DOC, DON, DOP).</p></div>
+</div><!--figurebox-->
+<p>Versions of MOBI have been implemented in various physical models such as the UVic model (e.g. Muglia et al., 2017), the Japanese Earth System Model MIROC (Yamamoto et al., 2015), <a href="https://veros.readthedocs.io">VEROS</a> and the transport matrix (Khatiwala et al., 2019). It is used by many scientists around the world. The newest version (2.0) is very flexible and allows many <a href="MOBI2.0.pdf"> different configurations </a> from a simple, 1 nutrient NPZD model with 4 prognostic tracers to the most complex one as depicted in the above figure with 30 prognostic tracers.</p>
+
+<div><a id="download"><h2>Download</h2></a>
+<ul>
+<li> <a href="https://github.com/OSU-CEOAS-Schmittner/UVicMOBI_fct_npzd_o2_n_fe_ca_caco3_c13_n15"> MOBI2.0 </a>
+<li> <a href="MOBI1.6"> MOBI1.6 </a>
+</div>
+<br>
+
+<div><a id="references"><h2>References</h2></a>
+<ul>
+<li>Khatiwala, S., A. Schmittner and J. Muglia (2019)<br>
+<b>Air-sea disequilibrium enhances ocean carbon storage during glacial periods</b>
+<div class="journal"><i>Science Advances.</i></div>
+<div class="publinks">
+<!--a class="publinks" href="">html</a>
+<a class="publinks" href="">pdf</a-->
+</div></li>
+
+<li>Muglia, J. Somes, C. J., Nickelsen, L., and A. Schmittner (2017)<br>
+<b>Combined Effects of Atmospheric and Seafloor Iron Fluxes to the Glacial Ocean</b>
+<div class="journal"><i>Paleoceanography</i>, 32(11), 1204-1218, doi:10.1002/2016PA003077.</div>
+<div class="publinks">
+<a class="publinks" href="http://onlinelibrary.wiley.com/doi/10.1002/2016PA003077/abstract">html</a>
+<a class="publinks" href="http://rdcu.be/CpQZ">pdf</a>
+<!a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/M/muglia17po.pdf">
+</div></li>
+
+<li>Somes, C. J., Schmittner, A., Muglia, J. and A. Oschlies (2017)<br>
+<b>A three-dimensional model of the marine nitrogen cycle during the Last Glacial Maximum constrained by sedimentary isotopes</b>
+<div class="journal"><i>Frontiers in Marine Science</i>, 4, 108, doi:10.3389/fmars.2017.00108.</div>
+<div class="publinks">
+<a class="publinks" href="http://journal.frontiersin.org/article/10.3389/fmars.2017.00108/full">html</a>
+<a class="publinks" href="http://journal.frontiersin.org/article/10.3389/fmars.2017.00108/pdf"> pdf</a>
+</div></li>
+
+<li>Kvale, K. F., Meissner, K. J., Keller, D. P., Eby, M., and Schmittner, A. (2015)<br>
+<b>Explicit planktic calcifiers in the University of Victoria Earth System Climate Model</b>
+<div class="journal"><i>Atmosphere-Ocean,</i> 53(3), doi: 10.1080/07055900.2015.1049112.</div>
+<div class="publinks">
+<a class="publinks" href="http://www.tandfonline.com/doi/full/10.1080/07055900.2015.1049112"> html </a>
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/K/kvale14ao.pdf"> pdf</a></div>
+
+<li>Yamamoto, A., A. Abe-Ouchi, M. Shigemitsu, A. Oka, K. Takahashi, R. Ohgaito, and Y. Yamanaka (2015)<br>
+<b>Global deep ocean oxygenation by enhanced ventilation in the Southern Ocean under long-term global warming</b>
+<div class="journal"><i>Global Biogeochem. Cycles,</i> 29, 1801–1815, doi:10.1002/2015GB005181.</div>
+
+</div>
+<br>
+
+</div><!--container-->

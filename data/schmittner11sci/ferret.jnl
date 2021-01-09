@@ -1,0 +1,63 @@
+ ! NOAA/PMEL TMAP
+ ! FERRET v6.3  
+ ! Darwin 9.8.0 (ifort) - 11/30/09
+ ! 22-Nov-11 16:31     
+
+let forc = 5.3*ln(co2/280)/ln(2)
+let co2 = 560
+list forc
+let forc = 5.3*ln(co2/280)
+list forc
+let forc = 5.3*ln(970/280)
+list forc
+dt = forc*lambda
+let dt = forc*lambda
+let forc = 5.3*ln(560/280)
+let lambda = 3
+list dt
+let lambda = 3/ln(2)
+list dt
+let lambda = 3*ln(2)
+list dt
+let lambda = 3/3.7
+list dt
+let forc = 5.3*ln(970/280)
+list dt
+let lambda = 2/3.7
+list dt
+let forc = 5.3*ln(560/280)
+list dt
+let forc = 5.3*ln(549/280)
+list dt
+list dtf = dt*9/5
+let dtf = dt*9/5
+list dtf
+let lambda = 4.5/3.7
+list dtf
+let lambda = 1.7/3.7
+list dtf
+let lambda = 2.6/3.7
+list dtf
+let lambda = 3/3.7
+list dtf
+let lambda = 2.3/3.7
+list dtf
+let forc = 5.3*ln(970/280)
+list dtf
+let lambda = 3/3.7
+list dtf
+let lambda = 1.7/3.7
+list dtf
+let lambda = 2.6/3.7
+list dtf
+let lambda = 2/3.7
+list dtf
+let lambda = 4.5/3.7
+list dtf
+sh var dt
+sh forc
+sh var forc
+list 5.3/3.7
+list 1.43*ln(2)
+list 1/ln(2)
+q

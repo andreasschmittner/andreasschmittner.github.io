@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title >Presentations Andreas Schmittner</title>
+<link rel="stylesheet" type="text/css" href="test2.css">
+</head>
+<body>
+<h1> Andreas Schmittner's Presentations</h1>
+<div id="header" style="height:150px;width:1100px">
+
+<div style="width:1200px;float:left;margin-bottom:25px;">
+<ul class="menue">
+<li class="menue"><a class="menue" href="index.html">Home</a></li>
+<li class="menue"><a class="menue" href="publications.html">Publications</a></li>
+<li class="menue"><a class="menue" href="projects.html">Projects</a></li>
+<li class="menue"><a class="menue" href="teaching.html">Teaching</a></li>
+<li class="menue"><a class="menue" href="models.html">Models</a></li>
+<li class="menue"><a class="menue" href="group.html">Group</a></li>
+<li class="menue"><a class="menue" href="climate_change.html">Climate Change</a></li>
+<li class="menue"><a class="menue" href="outreach.html">Outreach</a></li>
+<li class="menue"><a class="menue" href="presentations.html">Presentations</a></li>
+</ul>
+</div>
+
+<div id="container" style="width:1100px">
+
+<p>Check out <a class="publinks" href="http://www.slideshare.net/AndreasSchmittner"> my slideshare page </a> for presentations.
+
+<h2>Public Presentations</h2>
+
+<ul>
+<li>07-03-2019 <b>Impacts of Climate Change</b> Sustainability Committee of Evergreen Habitat for Humanity, Vancouver, WA</a>
+<li>27-01-2019 <b>Weather and Climate Change</b> Road Scholars, Adobe Resort, Yachats, Oregon<a class="publinks" href="https://www.slideshare.net/AndreasSchmittner/impacts-123036649"> pdf </a>
+<li>23-01-2019 <b>Weather and Climate Change</b> Road Scholars, Adobe Resort, Yachats, Oregon
+<li>13-11-2018 <b>Impacts of Climate Change</b> Joint Meeting of Engineers for a Sustainable Future and the Sustainable Future Section of the Oregon State Bar, Portland<a class="publinks" href="https://www.slideshare.net/AndreasSchmittner/impacts-123036649"> pdf </a>
+<li>11-06-2017 <b>Deep Ocean Circulation: Present, Past, and Future</b> Physics Department Seminar, Portland State University <a class="publinks" href="https://www.slideshare.net/AndreasSchmittner/deep-ocean-circulation-present-past-and-future"> pdf </a><a class="publinks" href="https://www.slideshare.net/AndreasSchmittner/deep-oceancirc2"> pdf with presenter notes</a>
+<li>04-18-2016 <b>Human Influence on Global Climate</b> Earth Week Keynotes, Oregon State University <a class="publinks" href="http://www.slideshare.net/AndreasSchmittner/human-influence-on-global-climate"> pdf </a>
+<li>03-28-2014 <b>Recent Developments in Climate Science</b> Passive House Northwest 5th Annual Conference, Portland <a class="publinks" href="Presentations/Climate_Passive_House.pdf"> pdf </a>
+<li>04-10-2012 <b>The Scientific Case for Human Influence on Global Climate</b> American Meteorological Society Oregon Chapter, Portland, OR
+ <a class="publinks" href="Presentations/AMSOC.pdf"> pdf </a> 
+
+<li>12-09-2006 <b>Ocean Circulation and Climate Change</b> Kavli Frontiers of Science Symposium <a class="publinks" href="http://kavli.nasmediaonline.org/jafos06/Schmittner_Andreas/andreasschmittner.html"> Presentation </a>
+</ul>
+
+<h2>Scientific Presentations</h2>
+<ul>
+<li>01-12-2018 <b>Quantifying Glacial Ocean Carbon Cycling</b> College of Earth, Ocean, and Atmospheric Sciences, Oregon State University, Corvallis, Oregon, USA. <a class="publinks" href="https://www.slideshare.net/AndreasSchmittner/quantifying-glacial-ocean-carbon-cycling"> pdf </a>
+<li>05-10-2017 <b>Centennial-scale Holocene climate variations amplified by Antarctic Ice Sheet discharge</b> PAGES Open Science Meeting, Zaragoza, Spain<a class="publinks" href="https://www.slideshare.net/AndreasSchmittner/centennialscale-holocene-climate-variations-amplified-by-antarctic-ice-sheet-discharge"> pdf </a>
+<li>02-23-2017 <b>Reconstructing the Glacial Ocean: Weak Atlantic Overturning and Iron Fertilization Maximize Carbon Storage</b> GEOMAR, Kiel, Germany<a class="publinks" href="https://www.slideshare.net/AndreasSchmittner/reconstructing-the-glacial-ocean-weak-atlantic-overturning-and-iron-fertilization-maximize-carbon-storage"> pdf </a>
+<li>08-29-2016 <b>Complementary Constraints from Carbon and Nitrogen Isotopes on the Glacial Ocean's Soft-Tissue Pump and Circulation</b> ICP12, Utrecht<a class="publinks" href="http://www.slideshare.net/AndreasSchmittner/complementary-constraints-from-carbon-and-nitrogen-isotopes-on-the-glacial-oceans-softtissue-pump-and-circulation"> Poster pdf </a>
+<li>08-27-2016 <b>Complementary Constraints from Carbon and Nitrogen Isotopes on the LGM Ocean's Biological Pump</b> IPODS Workshop, Utrecht<a class="publinks" href="http://www.slideshare.net/AndreasSchmittner/schmittner-ipods-talk-aug-27-2016"> pdf </a>
+<li>05-24-2016 <b>AMOC Effects on the Carbon Cycle and Atmospheric CO<sub>2</sub></b> Paleo AMOC Workshop, Boulder<a class="publinks" href="http://www.slideshare.net/AndreasSchmittner/atlantic-meridional-overturning-circulation-effects-on-the-carbon-cycle-and-atmospheric-co2"> ppt </a>
+<li>05-23-2016 <b>Antarctic Ice Sheet-Ocean Interactions Amplify Multi-Centennial Climate Variability</b> Paleo AMOC Workshop, Boulder<a class="publinks" href="https://usclivar.org/sites/default/files/meetings/2016/paleo/posterpdfs/Poster_version1.pdf"> pdf </a>
+<li>05-23-2016 <b>Antarctic role in Holocene climate variability</b> Paleo AMOC Workshop, Boulder<a class="publinks" href="http://www.slideshare.net/AndreasSchmittner/antarctic-role-in-holocene-climate-variability"> ppt </a>
+<li>02-23-2016 <b>Determining the Effect of the Lunar Nodal Cycle on Tidal Mixing and North Pacific Climate Variability </b> Ocean Sciences Meeting, New Orleans, Luisiana, USA
+<li>02-22-2016 <b>Response of Ocean Biogeochemistry and Isotopes to Different Iron Fluxes and Circulation</b> Ocean Sciences Meeting, New Orleans, Luisiana, USA<a class="publinks" href="https://www.slideshare.net/AndreasSchmittner/response-of-ocean-biogeochemistry-and-isotopes-to-different-iron-fluxes-and-circulation"> Poster pdf </a>
+<li>07-24-2015 <b>Using carbon isotopes to reconstruct AMOC changes during the last deglaciation</b> Towards a holistic picture of the Atlantic Meridional Overturning Circulation via observation modelling and synthesis, U.K. RAPID / U.S. AMOC International Science Meeting, Bristol, U.K.<a class="publinks" href="http://www.rapid.ac.uk/ic15/presentations.php#S"> pdf </a>
+<li>04-15-2014 <b>AMOC Perturbation Experiments a.k.a Hosing</b> Building International Research Partnerships in the North Atlantic-Arctic System <a class="publinks" href="http://www.whoi.edu/fileserver.do?id=183275&pt=2&p=192949"> pdf </a>
+<li>07-06-2014 <b>Atlantic Meridional Overturning Circulation Decline as a Trigger for Early Deglacial CO<sub>2</sub> Rise</b> Gordon Research Conference, Ocean Global Change Biology, Waterville Valley, NH <a class="publinks" href="Presentations/c13_amoc_GRC14.pdf"> pdf </a>
+<li>06-06-2014 <b>Atlantic Meridional Overturning Circulation Decline as a Trigger for Early Deglacial CO<sub>2</sub> Rise</b> Ocean Ecology and Biogeochemistry Seminar, College of Earth, Ocean, and Atmospheric Sciences, Corvallis, OR <a class="publinks" href="Presentations/c13_amoc_OEB14.pdf"> pdf </a>
+<li>05-29-2014 <b>AMOC Decline as a Trigger for Early Deglacial CO<sub>2</sub> Rise</b> <a class="publinks" href="http://www.climate.be/pmip3/">Paleoclimate Model Intercomparison Project 3, Second general meeting, Namur,</a> Belgium <a class="publinks" href="Presentations/c13_amoc_PMIP14.pdf"> pdf </a>
+<li>04-15-2014 <b>AMOC Perturbation Experiments a.k.a Hosing</b> International North Atlantic-Arctic Planning Workshop, Arlington, VA <a class="publinks" href="Presentations/NAtl_Planning_Hosing.pdf"> pdf </a>
+<li>02-27-2014 <b>Modeling Tidal Mixing, Past, Present, and Future</b> Ocean Sciences Meeting, Honolulu <a class="publinks" href="Presentations/OSM14_Modeling_TM.pdf"> pdf </a>
+</ul>
+
+</div>

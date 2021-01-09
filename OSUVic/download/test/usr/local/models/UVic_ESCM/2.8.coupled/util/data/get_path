@@ -1,0 +1,19 @@
+#! /usr/bin/perl -w
+
+#*******************************************************************************
+# get path for data_source
+#*******************************************************************************
+
+$path = $ENV{"PATH"};
+unless ( $MK_PATH ) { $MK_PATH = " " }
+$file = "data_source";
+$path =~ s/:/ /g;
+@path_list = split( / /, $path );
+PATH:
+ foreach $path (@path_list) {
+  $path_file = "$path/$file"; $path_file =~ s/ //g;
+  if ( -e "$path_file") { last PATH }
+ }
+if ( ! -e $path_file) { $path_file = "/usr/local/models/UVic_ESCM/data_source" }
+if ( ! -e $path_file) { print "Can not find path to data_source" }
+else { open OUT, ">path"; { print OUT "$path_file\n" }; close OUT }

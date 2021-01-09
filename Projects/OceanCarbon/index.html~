@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Quantifying the Modern and Glacial Ocean's Carbon Cycle Including Isotopes</title>
+<link rel="stylesheet" type="text/css" href="http://people.oregonstate.edu/~schmita2/test2.css">
+</head>
+
+<body>
+<h1>Quantifying the Modern and Glacial Ocean's Carbon Cycle Including Isotopes</h1>
+
+<div id="header" style="height:40px;width:1100px">
+
+<div style="width:1100px;float:left;margin-bottom:25px;">
+<ul class="menue">
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2">Andreas' Home</a></li>
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2/projects.html">Andreas' Projects</a></li>
+<li class="menue"><a class="menue" href="#opportunity">Opportunity</a></li>
+<li class="menue"><a class="menue" href="#publications">Publications</a></li>
+<li class="menue"><a class="menue" href="#presentations">Presentations</a></li>
+<li class="menue"><a class="menue" href="#outreach">Outreach</a></li>
+<li class="menue"><a class="menue" href="#people">People</a></li>
+</ul>
+</div>
+
+</div><!--header-->
+
+<div id="container" style="width:1100px">
+
+<div id="links" style="float:right;width:300px;margin:0px 0px 0px 0px">
+<p style="text-align:right"><b>Related Links</b></p>
+<ul class="menueright">
+<li><a class="menueright" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1924215&HistoricalAwards=false">Abstract at NSF</a></li>
+<li><a class="menueright" href="https://smile.oregonstate.edu/">SMILE</a></li>
+</ul>
+</div><!--Menueright-->
+
+<h2> Description </h2>
+<p>The ocean's carbon cycle is an important part of Earth's climate system because it impacts the concentration 
+of atmospheric carbon dioxide (CO<sub>2</sub>), which is a greenhouse gas. However, carbon cycling in the ocean 
+is currently not well understood in part because it is influenced by different complex physical, chemical and 
+biological processes. This complicates quantification of changes in ocean carbon storage such as those between 
+the contemporary ocean and that of the Last Glacial Maximum (LGM, ~21,000 years ago) and hinders mechanistic 
+understanding of the reasons for such changes. Previous studies have suggested several explanations for the lower 
+atmospheric CO<sub>2</sub> concentrations during the LGM including, increased sea ice cover, more sluggish deep 
+ocean circulation, cooler temperatures and increased dust-borne iron fluxes that fertilized phytoplankton growth. 
+This project will provide a novel data-constrained quantification of these processes based on the method of 
+Khatiwala et al. (2019), which will improve our 
+mechanistic understanding of past changes, and may improve understanding of possible future projections. A 
+graduate student will be trained in oceanography, biogeochemical and physical modeling. 
+This is a project that is jointly funded by 
+the National Science Foundation's Directorate of Geosciences (NSF/GEO) and the National Environment Research 
+Council (NERC) of the United Kingdom (UK) via the NSF/GEO-NERC Lead Agency Agreement.</p> 
+
+<div id="figurebox" style="float:right;width:800px;border:1px solid #ccc;margin:10px 10px 10px 10px">
+<div id="figure" style="float:right;width:800px;overflow:hidden">
+<img src="preformed_regenerated_schematic.png" width="390" style="margin:0px 0px 0px 0px">
+<img src="disequilibrium_schematic.png" width="390" style="margin:5px 5px 5px 5px">
+</div><!--figure-->
+<div style="width:790px;margin:0px 10px 10px 10px"> 
+<p>Schematic of Ocean Carbon Decompositon. Left: Dissolved Inorganic Carbon (DIC) in the ocean interior 
+arises from transport of preformed DIC from the surface plus regenerated biological carbon. Right: Preformed
+carbon is further separated into equilibrium and disequilibrium compontents with biological and phyiscal 
+components. From Khatiwala et al. (2019).</p></div>
+</div><!--figurebox-->
+
+<p>Modern observations and paleoclimate data provide a wealth of information on changes to the carbon cycle. These 
+data including carbon and nitrogen isotopes from glacial sediments will be used to constrain process-based 
+models of the modern and LGM ocean. A newly developed method will be applied that provides a precise and 
+complete decomposition of dissolved inorganic carbon storage into preformed and biologically-regenerated 
+components. Preformed carbon is further separated into saturation and disequilibrium components, each of which 
+has physical and biological contributions. Perturbation experiments will be used in which one variable 
+(temperature, sea ice, circulation, soluble iron fluxes) is changed at a time and the carbon decomposition is 
+applied. Uncertainties in circulation, mixing, and biogeochemistry will be considered. Protactinium thorium 
+ratios (Pa/Th) will be implemented in the model and compared with modern and glacial sediment data, which will 
+provide additional constraints on ocean circulation. Effects of ocean circulation changes on the different carbon 
+components will be investigated. The decomposition will be extended to dissolved oxygen and carbon isotopes 
+(&delta;<sup>13</sup>C). Hypotheses regarding modern and glacial ocean carbon storage will be tested.</p>
+
+<h2> Funded by </h2> <p>the National Science Foundation's Chemical Oceanography Program</p>
+
+<div><a id="opportunity"><h2>Opportunity</h2></a>
+<p>We are looking for a graduate student interested in working on this project. If you have a good physical sciences
+and math background, if your interested in numerical modeling and the ocean's carbon cycle this is the project 
+for you. Contact Andreas Schmittner for questions and/or apply to our graduate program in 
+<a class="publinks" href="https://ceoas.oregonstate.edu/academics/ocean/">Ocean, Earth, and 
+Atmospheric Sciences</a>.</p>
+</div><!--opportunity-->
+
+<div><a id="data"><h2>Outreach</h2></a>
+<p>The project will support underrepresented students through more than 25 afterschool Science Technology 
+Engineering and Mathematics clubs in rural Oregon middle and high schools. This will be achieved by working 
+with teachers to develop and implement a carbon cycle and climate science curriculum into their programs as 
+part of OSU's Science and Math Investigative Lerning Experiences (SMILE) program. </p>
+</div><!--Outreach-->
+
+<div id="publications" style="width:1100px;float:left">
+<a id="publications"><h2>Publications</h2></a>
+<li>Khatiwala, S., A. Schmittner and J. Muglia (2019)<br>
+<b>Air-sea disequilibrium enhances ocean carbon storage during glacial periods</b>
+<div class="journal"><i>Science Advances</i>, 5(6), doi: 10.1126/sciadv.aaw4981</div>
+<div class="publinks">
+<a class="publinks" href="https://advances.sciencemag.org/content/5/6/eaaw4981">html</a>
+<a class="publinks" href="https://advances.sciencemag.org/content/advances/5/6/eaaw4981.full.pdf">pdf</a-->
+<a class="publinks" href="https://today.oregonstate.edu/news/study-may-solve-long-standing-mystery-why-atmospheric-co2-was-lower-during-ice-ages"> OSU Press Release</a>
+<a class="publinks" href="https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=298738&WT.mc_id=USNSF_1"> NSF News</a>
+<a class="publinks" href="http://www.ox.ac.uk/news/science-blog/what-does-glass-prosecco-and-ice-age-ocean-have-common"> Oxford Science Blog</a>
+<a class="publinks" href="https://www.us-ocb.org/causes-90ppm-glacial-atm-co2-drawdown-debated/"> OCB Science Highlight</a>
+</div></li>
+
+<a class="publinks" href="https://par.nsf.gov/search/term:1924215"> NSF Public Access Repository: </a>
+</div><!--Publications-->
+
+<div id="people" style="width:1100px;float:left">
+<a id="people"><h2>People</h2></a>
+<ul>
+<li><a href="http://people.oregonstate.edu/~schmita2/">Andreas Schmittner</a>, Principle Investigator<br>
+<li><a href="https://www.earth.ox.ac.uk/people/samar-khatiwala/">Samar Khatiwala</a>, Co-PI<br>
+<li><a href="https://smile.oregonstate.edu/smile-staff">Jay Well</a>, SMILE<br>
+</ul>
+</div><!--People-->
+last changed Sep. 3, 2019
+<br>
+
+</div><!--container-->

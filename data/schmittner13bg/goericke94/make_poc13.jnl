@@ -1,0 +1,13 @@
+
+file/var=lat,lon0,c13poc,temp,co2aq,ep,logco2 Goericke_1994_d13C.dat
+let lon = lon0*(-1)	! longitude
+
+define axis/x=-180:180:5 xax5
+define axis/y=90s:90n:5 yax5
+def grid/x=xax5/y=yax5 g5
+
+let/title="delta PO13C"/units="permil" poc13 = c13_reg[g=g5]
+
+let c13_reg = scat2gridgauss_xy(lon, lat, c13poc, x[gx=xax5], y[gy=yax5], 4,4,1,0)
+
+save/file=poc13.nc poc13

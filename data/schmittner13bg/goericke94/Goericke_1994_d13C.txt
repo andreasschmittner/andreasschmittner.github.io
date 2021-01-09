@@ -1,0 +1,478 @@
+Reference   	#	Loc.	Lat.	Long.	d13C	Temp	[CO2]aqu.	ep	Log(CO2aq)
+								x	
+Fontugne and Duplessy, 1978, EPSL	57	P	15	-72	-19.3	31.7	8.0	12.6	0.91
+Fontugne and Duplessy, 1978, EPSL	48	P	3	-79	-19.3	31.6	8.1	12.6	0.91
+Fontugne and Duplessy, 1978, EPSL	58	P	17	-71	-22.2	31.5	8.1	15.5	0.91
+Fontugne and Duplessy, 1978, EPSL	47	P	2	-76	-20.2	31.5	8.1	13.5	0.91
+Fontugne and Duplessy, 1981, Oceanol. Acta	252	P	16	-67	-19.3	31.1	8.1	12.5	0.91
+Fontugne and Duplessy, 1978, EPSL	56	P	13	-73	-19.8	31.1	8.2	13.1	0.91
+Fontugne and Duplessy, 1978, EPSL	54	P	10	75	-21.1	31.0	8.2	14.3	0.91
+Fontugne and Duplessy, 1978, EPSL	51	P	7	-79	-20.3	31.0	8.2	13.5	0.91
+Fontugne and Duplessy, 1978, EPSL	49	P	4	-79	-20.5	31.0	8.2	13.7	0.91
+Fontugne and Duplessy, 1978, EPSL	55	P	12	-75	-20.0	30.8	8.2	13.2	0.91
+Fontugne and Duplessy, 1981, Oceanol. Acta	251	P	13	-72	-19.0	30.7	8.2	12.2	0.91
+Fontugne and Duplessy, 1978, EPSL	52	P	8	-75	-20.6	30.7	8.2	13.8	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	253	P	17	-63	-19.1	30.5	8.3	12.3	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	233	P	18	-89	-19.5	30.5	8.3	12.7	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	250	P	14	-73	-18.8	30.4	8.3	11.9	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	248	P	12	-74	-19.2	30.3	8.3	12.4	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	249	P	13	-73	-19.3	30.2	8.3	12.5	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	247	P	11	-74	-19.3	30.1	8.3	12.4	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	216	P	2	-90	-19.5	30.0	8.4	12.6	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	225	P	11	-94	-20.6	30.0	8.4	13.8	0.92
+Fontugne and Duplessy, 1978, EPSL	53	P	9	-75	-20.4	29.9	8.4	13.5	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	234	P	17	-90	-19.7	29.9	8.4	12.9	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	246	P	10	-75	-19.4	29.9	8.4	12.5	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	230	P	16	-93	-19.7	29.8	8.4	12.8	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	237	P	14	-92	-19.5	29.8	8.4	12.6	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	228	P	13	-95	-19.9	29.8	8.4	13.0	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	254	P	19	-60	-18.8	29.8	8.4	11.9	0.92
+Fontugne and Duplessy, 1978, EPSL	50	P	6	-78	-20.1	29.7	8.4	13.2	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	236	P	15	-91	-19.7	29.7	8.4	12.9	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	220	P	6	-95	-19.9	29.7	8.4	13.0	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	232	P	18	-91	-19.7	29.6	8.4	12.8	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	235	P	16	-91	-19.7	29.6	8.4	12.8	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	231	P	17	-93	-19.4	29.6	8.4	12.5	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	227	P	12	-96	-19.5	29.6	8.4	12.6	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	224	P	11	-93	-19.9	29.6	8.4	13.0	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	226	P	12	-94	-19.9	29.6	8.4	13.0	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	215	P	1	-90	-19.4	29.5	8.5	12.5	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	238	P	12	-92	-19.8	29.4	8.5	12.9	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	219	P	6	-94	-20.0	29.4	8.5	13.1	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	222	P	8	-95	-20.1	29.4	8.5	13.2	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	229	P	14	-93	-19.5	29.4	8.5	12.6	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	218	P	6	-93	-19.9	29.4	8.5	12.9	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	245	P	9	-75	-19.8	29.4	8.5	12.9	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	241	P	7	-90	-20.0	29.3	8.5	13.0	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	217	P	4	-90	-19.9	29.3	8.5	13.0	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	223	P	10	-95	-20.0	29.2	8.5	13.0	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	221	P	7	-96	-20.2	29.0	8.6	13.3	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	255	P	16	-67	-19.0	29.0	8.6	12.0	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	240	P	9	-90	-20.1	29.0	8.6	13.1	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	239	P	10	-92	-20.1	28.9	8.6	13.1	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	244	P	8	-75	-20.0	28.9	8.6	13.0	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	242	P	7	-87	-19.4	28.9	8.6	12.5	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	243	P	7	-76	-20.1	28.6	8.6	13.1	0.94
+Fisher, 1989,  Indomed -leg 12	102	P	10	32	-19.3	28.5	8.7	12.3	0.94
+Fisher, 1989,  Indomed -leg 12	103	P	7	27	-19.4	28.5	8.7	12.4	0.94
+Fisher, 1989,  Indomed -leg 12	87	P	18	62	-18.5	28.4	8.7	11.5	0.94
+Fisher, 1989,  Indomed -leg 12	89	P	18	58	-18.2	28.4	8.7	11.1	0.94
+Fisher, 1989,  Indomed -leg 12	88	P	17	57	-20.0	28.4	8.7	13.0	0.94
+Fisher, 1989,  Indomed -leg 12	86	P	18	61	-19.9	28.3	8.7	12.9	0.94
+Fisher, 1989,  Indomed -leg 12	90	P	18	60	-19.0	28.3	8.7	12.0	0.94
+Fisher, 1989,  Indomed -leg 12	101	P	9	31	-18.5	28.3	8.7	11.5	0.94
+Fisher, 1989,  Indomed -leg 12	105	P	6	25	-19.3	28.2	8.7	12.3	0.94
+Fisher, 1989,  Indomed -leg 12	104	P	5	24	-18.2	28.2	8.7	11.2	0.94
+Fisher, 1989,  Indomed -leg 12	99	P	10	33	-19.9	27.9	8.8	12.8	0.94
+Fisher, 1989,  Indomed -leg 12	100	P	8	29	-19.2	27.9	8.8	12.1	0.94
+Fisher, 1989,  Indomed -leg 12	91	P	17	54	-18.6	27.8	8.8	11.5	0.94
+Fisher, 1989,  Indomed -leg 12	106	P	3	21	-20.0	27.8	8.8	12.9	0.94
+Fisher, 1989,  Indomed -leg 12	92	P	17	49	-18.0	27.5	8.9	10.9	0.95
+Fisher, 1989,  Indomed -leg 12	98	P	12	36	-19.9	27.4	8.9	12.8	0.95
+Fisher, 1989,  Indomed -leg 12	97	P	15	41	-19.9	27.2	8.9	12.8	0.95
+Sackett et al., 1965, Science	1	P	6	88	-21.7	27.0	9.0	14.5	0.95
+Fisher, 1989,  Indomed -leg 12	107	P	5	22	-20.4	27.0	9.0	13.2	0.95
+Fisher, 1989,  Indomed -leg 12	93	P	17	45	-18.3	26.9	9.0	11.1	0.95
+Fisher, 1989,  Indomed -leg 12	96	P	14	39	-18.5	26.9	9.0	11.3	0.95
+Fisher, 1989,  Indomed -leg 12	94	P	17	47	-19.4	26.8	9.0	12.2	0.96
+Fisher, 1989,  Indomed -leg 12	95	P	15	43	-17.9	26.8	9.0	10.7	0.96
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	314	P	7	88	-21.7	26.7	9.0	14.5	0.96
+Sackett et al., 1965, Science	5	N	28	68	-21.4	26.5	9.1	14.2	0.96
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	318	P	28	68	-21.4	26.5	9.1	14.2	0.96
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	325	P	14	68	-19.6	26.5	9.1	12.4	0.96
+Sackett et al., 1965, Science	9	N	13	67	-19.6	26.5	9.1	12.4	0.96
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	323	P	20	67	-23.1	26.2	9.2	15.8	0.96
+Sackett et al., 1965, Science	8	N	18	60	-20.6	26.0	9.2	13.3	0.96
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	324	P	18	60	-20.6	26.0	9.2	13.3	0.96
+Fisher, 1989,  Indomed -leg 12	108	P	2	21	-21.7	26.0	9.2	14.4	0.96
+Degens et al, 1968, DSR 15: 11-20	354	P	2	92	-20.4	25.8	9.3	13.1	0.97
+Degens et al, 1968, DSR 15: 11-20	353	P	1	92	-19.7	25.7	9.3	12.4	0.97
+Fisher, 1989,  Indomed -leg 12	109	P	1	19	-21.6	25.2	9.4	14.3	0.97
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	320	P	27	68	-19.9	24.8	9.5	12.5	0.98
+Sackett et al., 1965, Science	7	N	26	68	-19.9	24.8	9.5	12.5	0.98
+Sackett et al., 1965, Science	6	N	27	68	-23.2	23.4	9.8	15.6	0.99
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	319	P	27	68	-23.2	23.4	9.8	15.6	0.99
+Degens et al, 1968, DSR 15: 11-20	352	P	0	92	-20.2	20.6	10.6	12.3	1.03
+Harrison, JGOFS	286	N	40	47	-19.4	14.5	12.7	10.8	1.10
+Harrison, JGOFS	287	N	40	47	-19.9	14.5	12.7	11.3	1.10
+Harrison, JGOFS	284	N	40	47	-20.2	14.4	12.7	11.6	1.10
+Harrison, JGOFS	285	N	40	47	-19.6	14.4	12.7	11.0	1.10
+Harrison, JGOFS	288	N	40	47	-19.6	14.4	12.7	11.0	1.10
+Harrison, JGOFS	283	N	41	47	-19.6	14.3	12.8	11.0	1.11
+Harrison, JGOFS	289	N	42	41	-19.4	13.2	13.2	10.6	1.12
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	272	N	67	7	-25.3	13.0	13.3	16.6	1.12
+Fontugne and Duplessy, 1981, Oceanol. Acta	267	P	60	-17	-21.1	12.7	13.4	12.3	1.13
+Fontugne and Duplessy, 1981, Oceanol. Acta	266	P	59	-15	-19.2	12.7	13.4	10.4	1.13
+Fontugne and Duplessy, 1981, Oceanol. Acta	265	P	58	-14	-24.1	12.7	13.4	15.3	1.13
+Fontugne and Duplessy, 1981, Oceanol. Acta	268	P	61	-18	-22.4	12.6	13.5	13.5	1.13
+Fontugne and Duplessy, 1981, Oceanol. Acta	269	P	62	-20	-23.2	12.5	13.5	14.3	1.13
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	271	N	67	6	-25.4	12.4	13.6	16.6	1.13
+Fontugne and Duplessy, 1981, Oceanol. Acta	270	P	62	-21	-21.7	11.6	13.9	12.7	1.14
+Fontugne and Duplessy, 1981, Oceanol. Acta	257	P	52	-36	-23.0	11.5	14.0	14.0	1.14
+Fontugne and Duplessy, 1981, Oceanol. Acta	256	P	52	-35	-24.2	11.1	14.1	15.1	1.15
+Fontugne and Duplessy, 1981, Oceanol. Acta	264	P	61	-9	-23.4	10.9	14.2	14.4	1.15
+Fontugne and Duplessy, 1981, Oceanol. Acta	261	P	62	-24	-22.9	10.8	14.3	13.9	1.15
+Harrison, JGOFS	290	N	45	41	-20.5	10.8	14.3	11.5	1.15
+Fontugne and Duplessy, 1981, Oceanol. Acta	260	P	60	-26	-23.4	10.6	14.4	14.4	1.16
+Fontugne and Duplessy, 1981, Oceanol. Acta	258	P	57	-29	-23.1	10.2	14.6	14.0	1.16
+Fontugne and Duplessy, 1981, Oceanol. Acta	259	P	59	-28	-24.2	9.8	14.8	15.0	1.17
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	273	N	70	0	-25.7	9.7	14.8	16.6	1.17
+Fontugne and Duplessy, 1981, Oceanol. Acta	263	P	64	-8	-25.6	7.7	15.8	16.2	1.20
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	276	N	70	0	-24.2	7.1	16.2	14.7	1.21
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	282	N	70	0	-27.1	6.2	16.7	17.5	1.22
+Schell, person. comm.	313	P	63	175	-24.1	6.2	16.7	14.5	1.22
+Fontugne and Duplessy, 1981, Oceanol. Acta	262	P	66	-10	-27.1	6.0	16.8	17.5	1.22
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	274	N	72	10	-26.3	3.8	18.2	16.4	1.26
+Schell, person. comm.	305	P	67	171	-20.5	3.6	18.3	10.6	1.26
+Schell, person. comm.	309	P	68	169	-18.7	3.5	18.4	8.8	1.26
+Schell, person. comm.	306	P	63	179	-19.0	3.1	18.7	9.0	1.27
+Schell, person. comm.	311	P	68	173	-21.9	2.7	18.9	11.9	1.28
+Schell, person. comm.	310	P	67	173	-22.5	2.6	19.0	12.5	1.28
+Schell, person. comm.	308	P	66	170	-20.0	2.4	19.2	9.9	1.28
+Schell, person. comm.	312	P	66	170	-25.0	2.4	19.2	14.9	1.28
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	280	N	72	-7	-21.9	2.4	19.2	11.9	1.28
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	279	N	72	-8	-23.0	2.0	19.4	12.9	1.29
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	278	N	72	-8	-22.3	1.6	19.7	12.2	1.30
+Schell, person. comm.	299	P	1000	1000	-19.9	1.0	20.2	9.7	1.31
+Schell, person. comm.	297	P	58	171	-20.3	1.0	20.2	10.1	1.31
+Schell, person. comm.	304	P	73	162	-25.3	0.8	20.4	15.0	1.31
+Schell, person. comm.	298	P	58	173	-19.0	0.7	20.4	8.7	1.31
+Schell, person. comm.	307	P	68	173	-21.7	0.6	20.5	11.4	1.31
+Hobson, Resulte Bay, pers. comm.	291	P	1000	1000	-24.1	0.5	20.6	13.8	1.31
+Hobson, Resulte Bay, pers. comm.	292	P	1000	1000	-24.4	0.5	20.6	14.1	1.31
+Schell, person. comm.	300	P	58	172	-19.5	0.2	20.8	9.1	1.32
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	275	N	73	-6	-25.3	0.2	20.9	15.0	1.32
+Hobson, Resulte Bay, pers. comm.	293	P	1000	1000	-22.9	-0.5	21.4	12.5	1.33
+Hobson, Resulte Bay, pers. comm.	294	P	1000	1000	-23.6	-0.5	21.4	13.2	1.33
+Hobson, Resulte Bay, pers. comm.	295	P	1000	1000	-22.7	-0.5	21.4	12.3	1.33
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	281	N	72	-1	-25.7	-0.7	21.6	15.2	1.33
+Schell, person. comm.	303	P	57	171	-20.5	-1.2	22.0	10.0	1.34
+Schell, person. comm.	296	P	59	171	-20.3	-1.5	22.3	9.8	1.35
+Schell, person. comm.	302	P	1000	1000	-20.4	-1.6	22.4	9.8	1.35
+Schell, person. comm.	301	P	59	171	-20.7	-1.6	22.4	10.1	1.35
+Fontugne and Duplessy, 1978, EPSL	46	P	0	-73	-20.0	31.6	8.1	13.3	0.91
+Fontugne and Duplessy, 1978, EPSL	45	P	-4	-73	-20.3	31.4	8.1	13.6	0.91
+Fontugne and Duplessy, 1978, EPSL	44	P	-7	-73	-19.9	30.1	8.3	13.1	0.92
+Fontugne and Duplessy, 1981, Oceanol. Acta	213	P	-1	-89	-19.4	29.6	8.4	12.5	0.93
+Fontugne and Duplessy, 1978, EPSL	43	P	-10	-74	-20.7	29.6	8.4	13.8	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	214	P	0	-89	-19.7	29.5	8.5	12.7	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	212	P	-4	-90	-19.4	29.4	8.5	12.5	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	210	P	-6	-89	-20.5	29.4	8.5	13.6	0.93
+Fontugne and Duplessy, 1978, EPSL	42	P	-12	-76	-20.7	29.2	8.5	13.8	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	211	P	-6	-89	-20.4	29.2	8.5	13.5	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	209	P	-8	-89	-20.1	28.9	8.6	13.2	0.93
+Fontugne and Duplessy, 1981, Oceanol. Acta	208	P	-9	-88	-20.5	28.3	8.7	13.4	0.94
+Fontugne and Duplessy, 1981, Oceanol. Acta	207	P	-10	-88	-20.0	28.3	8.7	12.9	0.94
+Fontugne and Duplessy, 1978, EPSL	41	P	-16	-76	-20.4	28.1	8.8	13.3	0.94
+Fontugne and Duplessy, 1981, Oceanol. Acta	206	P	-11	-88	-19.9	28.0	8.8	12.8	0.94
+Fontugne and Duplessy, 1981, Oceanol. Acta	202	P	-14	-86	-19.2	28.0	8.8	12.1	0.94
+Fontugne and Duplessy, 1981, Oceanol. Acta	203	P	-13	-87	-19.5	27.9	8.8	12.4	0.94
+Fontugne and Duplessy, 1981, Oceanol. Acta	196	P	-16	-74	-19.1	27.7	8.8	12.0	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	205	P	-12	-88	-19.5	27.7	8.8	12.3	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	199	P	-15	-85	-19.7	27.6	8.8	12.5	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	201	P	-15	-86	-19.6	27.6	8.9	12.5	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	200	P	-15	-85	-20.1	27.6	8.9	13.0	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	193	P	-19	-61	-20.7	27.4	8.9	13.6	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	194	P	-18	-65	-20.4	27.4	8.9	13.2	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	195	P	-17	-70	-19.6	27.4	8.9	12.5	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	204	P	-13	-88	-19.8	27.3	8.9	12.7	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	197	P	-16	-76	-19.2	27.2	8.9	12.1	0.95
+Fontugne and Duplessy, 1981, Oceanol. Acta	198	P	-16	-79	-19.5	26.9	9.0	12.3	0.95
+Sackett et al., 1965, Science	2	P	-10	138	-21.4	26.8	9.0	14.2	0.96
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	315	P	-11	138	-21.4	26.8	9.0	14.2	0.96
+Fontugne and Duplessy, 1978, EPSL	39	P	-23	-77	-19.0	26.6	9.1	11.8	0.96
+Sackett et al., 1965, Science	3	P	-14	150	-24.5	26.4	9.1	17.3	0.96
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	316	P	-15	150	-24.5	26.4	9.1	17.3	0.96
+Francois et al., 1993 GBC	476	I	-30	-58	-21.8	25.7	9.3	14.5	0.97
+Fontugne and Duplessy, 1978, EPSL	40	P	-21	-76	-19.2	25.2	9.4	11.8	0.97
+Degens et al, 1968, DSR 15: 11-20	355	P	-1	89	-20.6	25.0	9.4	13.2	0.98
+Fontugne and Duplessy, 1978, EPSL	38	P	-24	-59	-19.3	24.8	9.5	11.9	0.98
+Degens et al, 1968, DSR 15: 11-20	350	P	-2	88	-19.9	24.6	9.5	12.5	0.98
+Fisher, 1989,  Indomed -leg 12	110	P	-4	17	-20.9	24.5	9.6	13.4	0.98
+Degens et al, 1968, DSR 15: 11-20	351	P	-2	92	-19.7	24.2	9.6	12.2	0.98
+Fisher, 1989,  Indomed -leg 12	111	P	-3	18	-21.5	24.2	9.6	14.0	0.98
+Degens et al, 1968, DSR 15: 11-20	345	P	-8	82	-18.1	24.1	9.7	10.6	0.99
+Fontugne and Duplessy, 1978, EPSL	37	P	-25	-77	-19.0	23.9	9.7	11.5	0.99
+Fisher, 1989,  Indomed -leg 12	112	P	-6	15	-21.7	23.9	9.7	14.1	0.99
+Fisher, 1989,  Indomed -leg 12	113	P	-9	14	-21.4	23.7	9.8	13.9	0.99
+Fisher, 1989,  Indomed -leg 12	114	P	-12	14	-21.1	23.6	9.8	13.6	0.99
+Francois et al., 1993 GBC	475	I	-33	-58	-21.4	23.5	9.8	13.8	0.99
+Degens et al, 1968, DSR 15: 11-20	342	P	-11	79	-19.9	22.8	10.0	12.3	1.00
+Fisher, 1989,  Indomed -leg 12	115	P	-15	15	-21.7	22.4	10.1	14.0	1.00
+Fisher, 1989,  Indomed -leg 12	120	P	-24	20	-21.7	22.2	10.2	14.0	1.01
+Fontugne and Duplessy, 1978, EPSL	36	P	-28	-78	-19.6	22.0	10.2	11.9	1.01
+Degens et al, 1968, DSR 15: 11-20	356	P	-2	85	-20.1	21.9	10.2	12.3	1.01
+Fisher, 1989,  Indomed -leg 12	119	P	-25	21	-21.7	21.9	10.2	13.9	1.01
+Fisher, 1989,  Indomed -leg 12	121	P	-26	22	-26.7	21.4	10.4	18.9	1.02
+Fisher, 1989,  Indomed -leg 12	117	P	-17	16	-22.8	21.3	10.4	15.0	1.02
+Fisher, 1989,  Indomed -leg 12	118	P	-21	18	-21.3	21.3	10.4	13.4	1.02
+Francois et al., 1993 GBC	474	I	-35	-58	-21.7	21.2	10.5	13.9	1.02
+Degens et al, 1968, DSR 15: 11-20	348	P	-5	82	-19.5	21.1	10.5	11.7	1.02
+Fisher, 1989,  Indomed -leg 12	116	P	-19	17	-21.9	21.1	10.5	14.0	1.02
+Fisher, 1989,  Indomed -leg 12	123	P	-29	32	-21.5	21.1	10.5	13.7	1.02
+Degens et al, 1968, DSR 15: 11-20	349	P	-4	82	-18.3	21.0	10.5	10.4	1.02
+Fisher, 1989,  Indomed -leg 12	122	P	-27	26	-20.5	20.7	10.6	12.6	1.02
+Fisher, 1989,  Indomed -leg 12	132	P	-34	52	-20.4	20.7	10.6	12.5	1.02
+Degens et al, 1968, DSR 15: 11-20	344	P	-9	80	-18.6	20.5	10.6	10.7	1.03
+Fisher, 1989,  Indomed -leg 12	126	P	-30	35	-22.2	20.5	10.6	14.3	1.03
+Fisher, 1989,  Indomed -leg 12	127	P	-31	38	-21.6	20.2	10.7	13.7	1.03
+Fisher, 1989,  Indomed -leg 12	124	P	-29	30	-22.5	20.0	10.8	14.6	1.03
+Fisher, 1989,  Indomed -leg 12	130	P	-33	49	-21.8	20.0	10.8	13.8	1.03
+Fisher, 1989;  ANT-IV/2	136	P	-1000	-1000	-24.6	20.0	10.8	16.7	1.03
+Francois et al., 1993 GBC	473	I	-39	-59	-20.3	19.7	10.9	12.3	1.04
+Degens et al, 1968, DSR 15: 11-20	347	P	-5	82	-20.2	19.7	10.9	12.2	1.04
+Degens et al, 1968, DSR 15: 11-20	343	P	-10	79	-16.5	19.7	10.9	8.5	1.04
+Fontugene et al., 1991, Mar.Chem	422	P	-1000	1000	-21.7	19.4	11.0	13.7	1.04
+Fisher, 1989,  Indomed -leg 12	125	P	-29	33	-22.1	19.4	11.0	14.1	1.04
+Fisher, 1989,  Indomed -leg 12	128	P	-30	36	-22.4	19.1	11.1	14.3	1.04
+Fisher, 1989,  Indomed -leg 12	131	P	-33	45	-22.2	19.0	11.1	14.2	1.05
+Fisher, 1989,  Indomed -leg 12	129	P	-32	43	-22.5	18.9	11.1	14.4	1.05
+Fontugene et al., 1991, Mar.Chem	423	P	-1000	1000	-19.7	18.8	11.2	11.6	1.05
+Degens et al, 1968, DSR 15: 11-20	346	P	-7	81	-17.4	18.2	11.4	9.2	1.06
+Fontugne and Duplessy, 1978, EPSL	35	P	-31	-78	-21.6	18.2	11.4	13.4	1.06
+Francois et al., 1993 GBC	472	I	-39	-60	-19.5	18.1	11.4	11.3	1.06
+Francois et al., 1993 GBC	470	I	-40	-61	-19.3	17.9	11.5	11.1	1.06
+Degens et al, 1968, DSR 15: 11-20	339	P	-12	78	-21.2	17.9	11.5	13.0	1.06
+Francois et al., 1993 GBC	471	I	-40	-61	-20.4	17.8	11.5	12.2	1.06
+Fisher, 1989;  ANT-IV/2	137	P	-1000	-1000	-23.6	17.7	11.5	15.4	1.06
+Fontugene et al., 1991, Mar.Chem	420	P	-1000	1000	-22.6	17.1	11.7	14.3	1.07
+Fontugene et al., 1991, Mar.Chem	421	P	-1000	1000	-22.4	17.1	11.7	14.1	1.07
+Fontugne and Duplessy, 1978, EPSL	34	P	-35	-78	-21.1	16.8	11.8	12.8	1.07
+Degens et al, 1968, DSR 15: 11-20	341	P	-12	78	-18.0	16.6	11.9	9.6	1.08
+Fisher, 1989,  Indomed -leg 12	134	P	-1000	-1000	-18.1	16.4	12.0	9.7	1.08
+Francois et al., 1993 GBC	469	I	-41	-62	-17.9	16.4	12.0	9.5	1.08
+Fisher, 1989;  ANT-IV/2	138	P	-1000	-1000	-24.7	16.3	12.0	16.3	1.08
+Fontugne and Duplessy, 1978, EPSL	33	P	-37	-78	-20.3	16.2	12.0	11.9	1.08
+Francois et al., 1993 GBC	464	I	-44	-65	-18.4	16.2	12.1	10.0	1.08
+Degens et al, 1968, DSR 15: 11-20	340	P	-12	78	-19.8	16.0	12.1	11.4	1.08
+Fisher, 1989,  Indomed -leg 12	133	P	-34	49	-22.2	16.0	12.1	13.7	1.08
+Francois et al., 1993 GBC	463	I	-44	-66	-18.5	15.7	12.2	10.0	1.09
+Fontugene et al., 1991, Mar.Chem	419	P	-1000	1000	-19.6	15.5	12.3	11.1	1.09
+Fontugene et al., 1991, Mar.Chem	417	P	-1000	1000	-20.7	15.3	12.4	12.2	1.09
+Fisher, 1989,  Indomed -leg 12	135	P	-1000	-1000	-18.0	15.3	12.4	9.5	1.09
+Francois et al., 1993 GBC	465	I	-44	-65	-17.7	15.3	12.4	9.2	1.09
+Francois et al., 1993 GBC	468	I	-42	-64	-17.6	15.2	12.4	9.1	1.09
+Fontugene et al., 1991, Mar.Chem	416	P	-1000	1000	-23.1	15.1	12.5	14.5	1.10
+Fontugene et al., 1991, Mar.Chem	418	P	-1000	1000	-20.0	15.1	12.5	11.5	1.10
+Francois et al., 1993 GBC	462	I	-45	-66	-19.1	14.9	12.5	10.5	1.10
+Francois et al., 1993 GBC	467	I	-42	-63	-17.2	14.8	12.6	8.6	1.10
+Sackett et al., 1965, Science	4	P	-39	157	-24.0	14.4	12.7	15.4	1.10
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	317	P	-39	-157	-24.0	14.4	12.7	15.4	1.10
+Francois et al., 1993 GBC	466	I	-43	-64	-16.5	14.2	12.8	7.9	1.11
+Fontugene et al., 1991, Mar.Chem	414	P	-1000	1000	-21.6	13.8	13.0	12.9	1.11
+Fontugene et al., 1991, Mar.Chem	415	P	-1000	1000	-20.9	13.8	13.0	12.2	1.11
+Fontugene et al., 1991, Mar.Chem	413	P	-1000	1000	-21.8	13.5	13.1	13.1	1.12
+Fisher, 1989;  ANT-IV/2	139	P	-1000	-1000	-22.4	12.4	13.5	13.6	1.13
+Fisher, 1989;  ANT-IV/2	141	P	-1000	-1000	-21.3	12.3	13.6	12.4	1.13
+Fisher, 1989;  ANT-IV/2	140	P	-1000	-1000	-22.7	12.1	13.7	13.8	1.14
+Francois et al., 1993 GBC	461	I	-45	-66	-21.1	11.9	13.7	12.2	1.14
+Fontugene et al., 1991, Mar.Chem	412	P	-1000	1000	-19.9	11.7	13.8	11.0	1.14
+Fontugene et al., 1991, Mar.Chem	411	P	-1000	1000	-22.7	10.9	14.2	13.7	1.15
+Sackett et al., 1965, Science	10	P	-41	56	-27.6	10.7	14.3	18.5	1.16
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	326	P	-42	57	-27.6	10.7	14.3	18.5	1.16
+Fontugene et al., 1991, Mar.Chem	410	P	-1000	1000	-27.7	10.7	14.3	18.6	1.16
+Francois et al., 1993 GBC	458	I	-45	-67	-22.8	10.2	14.5	13.7	1.16
+Fontugene et al., 1991, Mar.Chem	409	P	-1000	1000	-25.0	10.1	14.6	15.9	1.16
+Francois et al., 1993 GBC	457	I	-46	-67	-23.1	9.9	14.7	14.0	1.17
+Francois et al., 1993 GBC	460	I	-45	-66	-22.9	9.8	14.7	13.7	1.17
+Francois et al., 1993 GBC	459	I	-45	-66	-22.3	8.9	15.2	13.0	1.18
+Fontugene et al., 1991, Mar.Chem	408	P	-1000	1000	-24.3	8.5	15.4	15.0	1.19
+Fisher, 1989;  Metor 56/3	147	P	-1000	-1000	-21.8	8.1	15.6	12.5	1.19
+Francois et al., 1993 GBC	455	I	-46	-68	-23.2	7.7	15.8	13.8	1.20
+Francois et al., 1993 GBC	456	I	-46	-67	-24.4	7.4	16.0	14.9	1.20
+Fontugene et al., 1991, Mar.Chem	405	P	-1000	1000	-26.2	7.1	16.2	16.7	1.21
+Francois et al., 1993 GBC	454	I	-47	-68	-24.6	6.8	16.3	15.1	1.21
+Francois et al., 1993 GBC	452	I	-47	-51	-25.8	6.7	16.4	16.3	1.22
+Fisher, 1989;  Metor 56/3	148	P	-1000	-1000	-21.0	6.6	16.5	11.5	1.22
+Fontugene et al., 1991, Mar.Chem	406	P	-1000	1000	-24.6	6.5	16.5	15.1	1.22
+Fontugene et al., 1991, Mar.Chem	407	P	-1000	1000	-23.4	6.5	16.5	13.8	1.22
+Francois et al., 1993 GBC	451	I	-48	-52	-25.8	6.3	16.6	16.2	1.22
+Fisher, 1989;  Metor 56/3	149	P	-1000	-1000	-23.2	6.0	16.8	13.6	1.23
+Fisher, 1989;  ANT-IV/2	142	P	-1000	-1000	-22.2	5.8	16.9	12.5	1.23
+Fisher, 1989;  ANT-IV/2	143	P	-1000	-1000	-23.5	5.7	17.0	13.9	1.23
+Fontugene et al., 1991, Mar.Chem	404	P	-1000	1000	-25.4	5.7	17.0	15.8	1.23
+Francois et al., 1993 GBC	449	I	-51	-55	-26.5	5.7	17.0	16.8	1.23
+Francois et al., 1993 GBC	448	I	-51	-55	-25.4	5.6	17.1	15.7	1.23
+Francois et al., 1993 GBC	450	I	-49	-54	-26.0	5.5	17.1	16.3	1.23
+Francois et al., 1993 GBC	447	I	-51	-55	-25.3	5.5	17.1	15.6	1.23
+Fontugene et al., 1991, Mar.Chem	403	P	-1000	1000	-24.9	5.4	17.2	15.2	1.24
+Fontugene et al., 1991, Mar.Chem	402	P	-1000	1000	-25.1	5.2	17.3	15.4	1.24
+Francois et al., 1993 GBC	453	I	-50	-67	-26.2	4.4	17.8	16.4	1.25
+Fisher, 1989;  ANT-IV/2	144	P	-1000	-1000	-25.7	4.4	17.8	15.9	1.25
+Fontugene et al., 1991, Mar.Chem	401	P	-1000	1000	-26.1	4.4	17.8	16.3	1.25
+Francois et al., 1993 GBC	446	I	-52	-56	-25.8	4.1	18.0	16.0	1.25
+Francois et al., 1993 GBC	445	I	-53	-58	-26.2	4.0	18.1	16.3	1.26
+Fontugene et al., 1991, Mar.Chem	398	P	-1000	1000	-26.1	3.8	18.2	16.2	1.26
+Fontugene et al., 1991, Mar.Chem	400	P	-1000	1000	-24.2	3.6	18.3	14.3	1.26
+Fontugene et al., 1991, Mar.Chem	397	P	-1000	1000	-26.9	3.3	18.5	17.0	1.27
+Francois et al., 1993 GBC	443	I	-55	-60	-25.0	3.2	18.6	15.0	1.27
+Fontugene et al., 1991, Mar.Chem	399	P	-1000	1000	-24.6	3.1	18.7	14.7	1.27
+Francois et al., 1993 GBC	442	I	-56	-61	-26.4	3.0	18.7	16.4	1.27
+Francois et al., 1993 GBC	444	I	-54	-59	-26.6	3.0	18.7	16.6	1.27
+Fisher, 1989;  ANT-IV/2	145	P	-1000	-1000	-24.5	2.5	19.1	14.5	1.28
+Francois et al., 1993 GBC	431	I	-57	-72	-27.4	2.4	19.2	17.3	1.28
+Fontugene et al., 1991, Mar.Chem	362	P	-1000	1000	-32.1	2.3	19.2	22.0	1.28
+Fontugene et al., 1991, Mar.Chem	395	P	-1000	1000	-27.0	2.3	19.2	16.9	1.28
+Francois et al., 1993 GBC	441	I	-58	-62	-28.3	2.3	19.2	18.2	1.28
+Fisher, 1989;  Metor 56/3	153	P	-1000	-1000	-27.9	2.3	19.2	17.9	1.28
+Fontugene et al., 1991, Mar.Chem	390	P	-1000	1000	-25.3	2.2	19.3	15.2	1.29
+Francois et al., 1993 GBC	436	I	-57	-68	-24.5	2.2	19.3	14.4	1.29
+Francois et al., 1993 GBC	439	I	-57	-63	-27.9	2.1	19.4	17.8	1.29
+Fontugene et al., 1991, Mar.Chem	379	P	-1000	1000	-27.6	2.1	19.4	17.5	1.29
+Francois et al., 1993 GBC	433	I	-57	-68	-25.8	2.1	19.4	15.7	1.29
+Fisher, 1989;  Metor 56/3	154	P	-1000	-1000	-27.8	2.1	19.4	17.7	1.29
+Francois et al., 1993 GBC	440	I	-57	-63	-26.0	2.1	19.4	15.9	1.29
+Francois et al., 1993 GBC	434	I	-57	-68	-25.9	2.1	19.4	15.8	1.29
+Francois et al., 1993 GBC	435	I	-57	-69	-26.3	2.0	19.4	16.2	1.29
+Fontugene et al., 1991, Mar.Chem	396	P	-1000	1000	-26.2	2.0	19.4	16.1	1.29
+Fisher, 1989;  Metor 56/3	158	P	-1000	-1000	-30.2	2.0	19.5	20.0	1.29
+Francois et al., 1993 GBC	432	I	-57	-69	-25.0	2.0	19.5	14.9	1.29
+Francois et al., 1993 GBC	430	I	-58	-75	-25.8	1.8	19.6	15.7	1.29
+Fontugene et al., 1991, Mar.Chem	361	P	-1000	1000	-31.5	1.8	19.6	21.4	1.29
+Fontugene et al., 1991, Mar.Chem	389	P	-1000	1000	-23.1	1.8	19.6	12.9	1.29
+Fontugene et al., 1991, Mar.Chem	394	P	-1000	1000	-26.9	1.8	19.6	16.8	1.29
+Sackett et al., 1965, Science	19	P	-61	62	-26.9	1.8	19.6	16.8	1.29
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	335	P	-62	62	-26.9	1.8	19.6	16.8	1.29
+Francois et al., 1993 GBC	429	I	-58	-77	-27.1	1.8	19.6	17.0	1.29
+Francois et al., 1993 GBC	428	I	-58	-80	-26.6	1.7	19.7	16.5	1.29
+Francois et al., 1993 GBC	425	I	-58	-80	-26.7	1.6	19.7	16.5	1.30
+Francois et al., 1993 GBC	424	I	-57	-79	-26.1	1.6	19.8	15.9	1.30
+Francois et al., 1993 GBC	437	I	-59	-67	-27.3	1.5	19.8	17.1	1.30
+Francois et al., 1993 GBC	427	I	-58	-79	-25.8	1.5	19.8	15.6	1.30
+Fisher, 1989;  Metor 56/3	150	P	-1000	-1000	-24.7	1.4	19.9	14.5	1.30
+Francois et al., 1993 GBC	426	I	-57	-79	-26.0	1.4	19.9	15.8	1.30
+Fontugene et al., 1991, Mar.Chem	380	P	-1000	1000	-27.4	1.4	19.9	17.2	1.30
+Fontugene et al., 1991, Mar.Chem	392	P	-1000	1000	-26.9	1.4	19.9	16.7	1.30
+Fontugene et al., 1991, Mar.Chem	393	P	-1000	1000	-26.8	1.4	19.9	16.6	1.30
+Francois et al., 1993 GBC	438	I	-59	-64	-28.4	1.3	20.0	18.2	1.30
+Fisher, 1989;  Metor 56/3  > 150 µm	165	P	-1000	-1000	-25.9	1.2	20.1	15.7	1.30
+Fontugene et al., 1991, Mar.Chem	391	P	-1000	1000	-26.8	1.2	20.1	16.6	1.30
+Fisher, 1989;  Metor 56/3	163	P	-1000	-1000	-26.4	1.1	20.1	16.1	1.30
+Fisher, 1989;  Metor 56/3  > 150 µm	170	P	-1000	-1000	-26.1	1.1	20.1	15.9	1.30
+Fontugene et al., 1991, Mar.Chem	378	P	-1000	1000	-27.5	1.1	20.2	17.2	1.30
+Fisher, 1989;  Metor 56/3	152	P	-1000	-1000	-26.8	1.0	20.2	16.6	1.31
+Fisher, 1989;  Metor 56/3	162	P	-1000	-1000	-24.8	0.9	20.3	14.6	1.31
+Fisher, 1989;  Metor 56/3  > 150 µm	169	P	-1000	-1000	-24.4	0.9	20.3	14.1	1.31
+Fontugene et al., 1991, Mar.Chem	373	P	-1000	1000	-28.0	0.8	20.3	17.8	1.31
+Fisher, 1989;  Metor 56/3	151	P	-1000	-1000	-26.5	0.8	20.4	16.2	1.31
+Fisher, 1989;  Metor 56/3  > 150 µm	164	P	-1000	-1000	-26.5	0.8	20.4	16.2	1.31
+Fontugene et al., 1991, Mar.Chem	364	P	-1000	1000	-29.4	0.5	20.6	19.1	1.31
+Fontugene et al., 1991, Mar.Chem	365	P	-1000	1000	-29.2	0.5	20.6	18.9	1.31
+Fontugene et al., 1991, Mar.Chem	366	P	-1000	1000	-29.0	0.5	20.6	18.7	1.31
+Fischer, 1989;  ANT II/3  > 53 µm	177	P	-62	57	-31.7	0.5	20.6	21.4	1.31
+Fischer, 1989;  ANT II/3  > 53 µm	178	P	-62	57	-29.1	0.5	20.6	18.8	1.31
+Fisher, 1989;  Metor 56/3	156	P	-1000	-1000	-24.7	0.5	20.6	14.4	1.31
+Fisher, 1989;  Metor 56/3	157	P	-1000	-1000	-29.0	0.5	20.6	18.7	1.31
+Fisher, 1989;  Metor 56/3	161	P	-1000	-1000	-24.6	0.5	20.6	14.3	1.31
+Fisher, 1989;  Metor 56/3  > 150 µm	166	P	-1000	-1000	-26.8	0.5	20.6	16.5	1.31
+Fisher, 1989;  Metor 56/3  > 150 µm	167	P	-1000	-1000	-29.2	0.5	20.6	18.9	1.31
+Fisher, 1989;  Metor 56/3	159	P	-1000	-1000	-27.4	0.4	20.7	17.1	1.32
+Fisher, 1989;  Metor 56/3	160	P	-1000	-1000	-25.7	0.4	20.7	15.4	1.32
+Fisher, 1989;  Metor 56/3  > 150 µm	168	P	-1000	-1000	-25.9	0.4	20.7	15.6	1.32
+Fischer, 1989;  look up	191	P	-62	57	-29.4	0.3	20.8	19.0	1.32
+Fischer, 1989;  look up	192	P	-62	57	-25.4	0.3	20.8	15.0	1.32
+Fisher, 1989;  ANT-IV/2	146	P	-1000	-1000	-30.8	0.3	20.8	20.5	1.32
+Fontugene et al., 1991, Mar.Chem	372	P	-1000	1000	-28.4	0.3	20.8	18.0	1.32
+Fontugene et al., 1991, Mar.Chem	383	P	-1000	1000	-26.5	0.3	20.8	16.1	1.32
+Fischer, 1989;  look up	186	P	-62	60	-32.4	0.2	20.8	22.1	1.32
+Fischer, 1989;  look up	189	P	-62	60	-27.3	0.2	20.8	17.0	1.32
+Sackett et al., 1965, Science	13	P	-60	54	-27.9	0.1	20.9	17.6	1.32
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	329	P	-61	55	-27.9	0.1	20.9	17.6	1.32
+Fischer, 1989;  look up	184	P	-62	58	-33.4	0.1	20.9	23.1	1.32
+Fischer, 1989;  look up	185	P	-62	59	-34.8	0.1	20.9	24.5	1.32
+Fontugene et al., 1991, Mar.Chem	374	P	-1000	1000	-27.9	0.1	20.9	17.6	1.32
+Fontugene et al., 1991, Mar.Chem	381	P	-1000	1000	-26.8	0.1	20.9	16.4	1.32
+Fontugene et al., 1991, Mar.Chem	382	P	-1000	1000	-26.6	0.1	20.9	16.2	1.32
+Fischer, 1989;  ANT II/3  > 53 µm	179	P	-61	57	-29.6	0.0	21.0	19.2	1.32
+Fontugene et al., 1991, Mar.Chem	388	P	-1000	1000	-25.7	0.0	21.0	15.3	1.32
+Fontugene et al., 1991, Mar.Chem	387	P	-1000	1000	-25.9	-0.1	21.1	15.5	1.32
+Fontugene et al., 1991, Mar.Chem	363	P	-1000	1000	-29.3	-0.2	21.2	18.9	1.33
+Fontugene et al., 1991, Mar.Chem	371	P	-1000	1000	-28.3	-0.2	21.2	17.9	1.33
+Fontugene et al., 1991, Mar.Chem	375	P	-1000	1000	-27.6	-0.5	21.4	17.2	1.33
+Fontugene et al., 1991, Mar.Chem	377	P	-1000	1000	-27.1	-0.5	21.4	16.7	1.33
+Fischer, 1989;  ANT II/3  > 53 µm	176	P	-61	46	-32.2	-0.5	21.4	21.8	1.33
+Sackett et al., 1965, Science	20	P	-62	40	-27.1	-0.5	21.4	16.7	1.33
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	336	P	-62	41	-27.1	-0.5	21.4	16.7	1.33
+Fontugene et al., 1991, Mar.Chem	376	P	-1000	1000	-27.1	-0.6	21.5	16.7	1.33
+Sackett et al., 1965, Science	15	P	-60	34	-27.1	-0.6	21.5	16.7	1.33
+Fischer, 1989;  ANT II/3  > 53 µm	171	P	-60	48	-32.8	-0.6	21.5	22.3	1.33
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	331	P	-61	35	-27.1	-0.6	21.5	16.7	1.33
+Fischer, 1989;  ANT II/3  > 53 µm	175	P	-62	47	-27.0	-0.6	21.5	16.6	1.33
+Fontugene et al., 1991, Mar.Chem	360	P	-1000	1000	-30.1	-0.7	21.6	19.6	1.33
+Fontugene et al., 1991, Mar.Chem	357	P	-1000	1000	-32.5	-0.8	21.7	22.1	1.34
+Fontugene et al., 1991, Mar.Chem	384	P	-1000	1000	-26.6	-0.9	21.8	16.1	1.34
+Sackett et al., 1965, Science	14	P	-60	28	-26.5	-0.9	21.8	16.0	1.34
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	330	P	-61	29	-26.5	-0.9	21.8	16.0	1.34
+Fischer, 1989;  ANT II/3  > 53 µm	174	P	-62	45	-27.6	-0.9	21.8	17.2	1.34
+Fischer, 1989;  look up	183	P	-62	56	-28.5	-1.0	21.9	18.0	1.34
+Fontugene et al., 1991, Mar.Chem	385	P	-1000	1000	-23.1	-1.2	22.0	12.6	1.34
+Fontugene et al., 1991, Mar.Chem	386	P	-1000	1000	-25.8	-1.3	22.1	15.2	1.35
+Fischer, 1989;  ANT II/3  > 53 µm	173	P	-63	44	-29.4	-1.4	22.2	18.8	1.35
+Sackett et al., 1965, Science	16	P	-60	31	-30.4	-1.5	22.3	19.9	1.35
+Sackett et al., 1965, Science	18	P	-61	34	-28.3	-1.5	22.3	17.8	1.35
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	332	P	-61	31	-30.4	-1.5	22.3	19.9	1.35
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	334	P	-62	35	-28.3	-1.5	22.3	17.8	1.35
+Fontugene et al., 1991, Mar.Chem	359	P	-1000	1000	-30.4	-1.5	22.3	19.8	1.35
+Fontugene et al., 1991, Mar.Chem	367	P	-1000	1000	-28.5	-1.5	22.3	17.9	1.35
+Fontugene et al., 1991, Mar.Chem	368	P	-1000	1000	-28.3	-1.5	22.3	17.7	1.35
+Fontugene et al., 1991, Mar.Chem	369	P	-1000	1000	-28.0	-1.5	22.3	17.5	1.35
+Sackett et al., 1965, Science	21	P	-64	40	-27.9	-1.6	22.4	17.3	1.35
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	337	P	-64	41	-27.9	-1.6	22.4	17.3	1.35
+Fontugene et al., 1991, Mar.Chem	370	P	-1000	1000	-27.9	-1.7	22.4	17.3	1.35
+Fischer, 1989;  ANT III/2  > 53 µm	180	P	-63	54	-25.9	-1.7	22.4	15.3	1.35
+Fischer, 1989;  ANT II/3  > 53 µm	172	P	-64	44	-30.7	-1.7	22.4	20.1	1.35
+Sackett et al., 1965, Science	22	P	-64	52	-30.6	-1.8	22.6	20.0	1.35
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	338	P	-65	52	-30.6	-1.8	22.6	20.0	1.35
+Fontugene et al., 1991, Mar.Chem	358	P	-1000	1000	-30.5	-1.9	22.6	19.9	1.35
+Maren Voß. 1991, Ph.D. Thesis, Kiel University	277	N	73	-11	-23.4	-99.0	-99.0	-2.2	#NUM!
+Saupe, 1989, Marine Biology	79	P	72	155	-22.8	-99.0	-99.0	-2.8	#NUM!
+Rau et al., 1982, Deep Sea Research	71	P	71	-150	-22.4	-99.0	-99.0	-3.2	#NUM!
+Rau et al., 1982, Deep Sea Research	72	P	71	-150	-21.5	-99.0	-99.0	-4.1	#NUM!
+Saupe, 1989, Marine Biology	80	P	71	150	-24.6	-99.0	-99.0	-1.0	#NUM!
+Saupe, 1989, Marine Biology	83	P	71	142	-25.4	-99.0	-99.0	-0.2	#NUM!
+Saupe, 1989, Marine Biology	81	P	70	142	-25.8	-99.0	-99.0	0.2	#NUM!
+Saupe, 1989, Marine Biology	82	P	70	142	-26.0	-99.0	-99.0	0.4	#NUM!
+Saupe, 1989, Marine Biology	84	P	68	135	-26.7	-99.0	-99.0	1.1	#NUM!
+Saupe, 1989, Marine Biology	85	P	68	135	-25.1	-99.0	-99.0	-0.5	#NUM!
+Saupe, 1989, Marine Biology	78	P	66	170	-21.1	-99.0	-99.0	-4.5	#NUM!
+Saupe, 1989, Marine Biology	77	P	64	168	-20.9	-99.0	-99.0	-4.7	#NUM!
+Rau et al., 1982, Deep Sea Research	70	P	63	-171	-21.4	-99.0	-99.0	-4.2	#NUM!
+Rau et al., 1982, Deep Sea Research	69	P	62	-167	-18.5	-99.0	-99.0	-7.2	#NUM!
+Rau et al., 1982, Deep Sea Research	68	P	60	-175	-20.5	-99.0	-99.0	-5.1	#NUM!
+Rau et al., 1982, Deep Sea Research	67	P	59	-142	-21.0	-99.0	-99.0	-4.7	#NUM!
+Rau et al., 1982, Deep Sea Research	65	P	55	-170	-23.3	-99.0	-99.0	-2.3	#NUM!
+Rau et al., 1982, Deep Sea Research	66	P	55	-170	-22.9	-99.0	-99.0	-2.7	#NUM!
+Rau et al., 1992, GCA	23	N	47	20	-22.9	-99.0	-99.0	-2.7	#NUM!
+Rau et al., 1992, GCA	24	N	47	20	-21.6	-99.0	-99.0	-4.0	#NUM!
+Rau et al., 1992, GCA	25	N	47	20	-21.0	-99.0	-99.0	-4.7	#NUM!
+Rau et al., 1992, GCA	26	N	47	20	-20.5	-99.0	-99.0	-5.1	#NUM!
+Rau et al., 1992, GCA	27	N	47	20	-20.0	-99.0	-99.0	-5.6	#NUM!
+Rau et al., 1992, GCA	28	N	47	20	-19.2	-99.0	-99.0	-6.4	#NUM!
+Rau et al., 1992, GCA	29	N	47	20	-18.8	-99.0	-99.0	-6.9	#NUM!
+Rau et al., 1992, GCA	30	N	47	20	-18.6	-99.0	-99.0	-7.0	#NUM!
+Rau et al., 1992, GCA	31	N	47	20	-18.3	-99.0	-99.0	-7.4	#NUM!
+Rau et al., 1992, GCA	32	N	47	20	-18.1	-99.0	-99.0	-7.6	#NUM!
+Rau et al., 1982, Deep Sea Research	64	P	34	-119	-20.1	-99.0	-99.0	-5.5	#NUM!
+Rau et al., 1982, Deep Sea Research	63	P	33	-120	-20.5	-99.0	-99.0	-5.1	#NUM!
+Rau et al., 1982, Deep Sea Research	62	P	28	-155	-20.3	-99.0	-99.0	-5.3	#NUM!
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	321	P	22	82	-20.6	-99.0	-99.0	-5.0	#NUM!
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	322	P	21	67	-23.3	-99.0	-99.0	-2.3	#NUM!
+Eadie and Jeffrey, 1973, Marine Chemistry	61	P	-51	-77	-26.0	-99.0	-99.0	0.4	#NUM!
+Sackett et al., 1965, Science	11	P	-59	31	-27.6	-99.0	-99.0	2.0	#NUM!
+Sackett et al., 1965, Science	12	P	-59	46	-25.6	-99.0	-99.0	0.0	#NUM!
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	327	P	-59	31	-27.6	-99.0	-99.0	2.0	#NUM!
+Wada et al., 1987, Deep Sea Research	74	P	-60	-116	-26.4	-99.0	-99.0	0.8	#NUM!
+Fischer, 1989;  ANT III/2  > 53 µm	181	P	-60	54	-30.0	-99.0	-99.0	4.3	#NUM!
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	328	P	-60	47	-25.9	-99.0	-99.0	0.3	#NUM!
+Sackett et al., 1965, Science	17	P	-61	40	-28.3	-99.0	-99.0	2.7	#NUM!
+Wada et al., 1987, Deep Sea Research	73	P	-61	-150	-27.4	-99.0	-99.0	1.8	#NUM!
+Wada et al., 1987, Deep Sea Research	75	P	-61	150	-32.3	-99.0	-99.0	6.7	#NUM!
+Wada et al., 1987, Deep Sea Research	76	P	-61	-150	-28.3	-99.0	-99.0	2.7	#NUM!
+Fischer, 1989;  ANT III/2  > 53 µm	182	P	-61	55	-29.1	-99.0	-99.0	3.4	#NUM!
+Sackett et al., 1966, Erdöl und Kohle-Erdgas-Petrochemie 19: 562 - 664	333	P	-61	40	-28.3	-99.0	-99.0	2.7	#NUM!
+Fischer, 1989;  look up	188	P	-62	61	-34.3	-99.0	-99.0	8.7	#NUM!
+Fischer, 1989;  look up	190	P	-62	53	-32.0	-99.0	-99.0	6.4	#NUM!
+Fischer, 1989;  look up	187	P	-63	61	-33.3	-99.0	-99.0	7.7	#NUM!
+Eadie and Jeffrey, 1973, Marine Chemistry	59	P	-64	-114	-25.5	-99.0	-99.0	-0.1	#NUM!
+Eadie and Jeffrey, 1973, Marine Chemistry	60	P	-65	-74	-26.0	-99.0	-99.0	0.4	#NUM!
+Fisher, 1989;  Metor 56/3	155	P	-1000	-1000	-30.0	-99.0	-99.0	4.4	#NUM!

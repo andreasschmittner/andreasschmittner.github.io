@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>The Biological Pump During the Last Glacial Maximum and Early Deglaciation</title>
+<link rel="stylesheet" type="text/css" href="http://people.oregonstate.edu/~schmita2/test2.css">
+</head>
+
+<body>
+<h1> The Biological Pump During the Last Glacial Maximum and Early Deglaciation</h1>
+
+<div id="header" style="height:40px;width:1100px">
+
+<div style="width:1100px;float:left;margin-bottom:25px;">
+<ul class="menue">
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2">Andreas' Home</a></li>
+<li class="menue"><a class="menue" href="http://people.oregonstate.edu/~schmita2/projects.html">Andreas' Projects</a></li>
+<li class="menue"><a class="menue" href="#results">Results</a></li>
+<li class="menue"><a class="menue" href="#publications">Publications</a></li>
+<li class="menue"><a class="menue" href="#presentations">Presentations</a></li>
+<li class="menue"><a class="menue" href="#outreach">Outreach</a></li>
+<li class="menue"><a class="menue" href="#people">People</a></li>
+</ul>
+</div>
+
+</div><!--header-->
+
+<div id="container" style="width:1100px">
+
+<div id="links" style="float:right;width:300px;margin:0px 0px 0px 0px">
+<p style="text-align:right"><b>Related Links</b></p>
+<ul class="menueright">
+<li><a class="menueright" href="http://people.oregonstate.edu/~schmita2/Projects/OC3">OC3</a></li>
+<li><a class="menueright" href="http://www.pages-igbp.org/workinggroups/nicopp">NICOPP</a></li>
+<li><a class="menueright" href="http://people.oregonstate.edu/~schmita2/Projects/LGM/">Previous Project</a></li>
+</ul>
+</div><!--Menueright-->
+
+<h2> Description </h2>
+<p>An important unanswered question in paleoclimate research is what caused the increase of atmospheric carbon dioxide (CO<sub>2</sub>) concentrations during the last deglaciation. During the height of the last ice age, 20,000 years ago, climate was cold and CO<sub>2</sub> concentrations were low, around 180 parts per million (ppm). Subsequently CO<sub>2</sub> concentrations rose to about 280 ppm causing the climate to warm, ice sheets to melt and sea levels to rise. The last deglaciation was the last time in Earth’s history when global climate warmed substantially, comparable to the warming projected for the coming centuries. Currently interactions between climate and the carbon cycle are not well understood, with possible implications for the accuracy of future climate projections. This project will contribute to a better understanding of Earth’s coupled climate-carbon cycle system. Previous research suggests that the carbon that was missing in the atmosphere during the ice age was stored somewhere in the ocean, but at present it is not clear where exactly it was, why it was there, and what the reasons were for its outgassing from the ocean to the atmosphere during the deglaciation. This project will synthesize carbon isotope data from ocean sediments and combine them with detailed model simulations in order to better understand the ocean’s circulation and carbon cycle during the early part of the last deglaciation from 20,000 to 13,000 years before the present. The data synthesis will be accomplished through an international collaborative project (OC3: Ocean Circulation and Carbon Cycling). A newly developed global climate model that includes three-dimensional ocean physics, biogeochemical cycles, isotopes of carbon and nitrogen, and sediments will be constrained by the OC3 carbon isotope synthesis and other existing paleoceanographic datasets such as a recent synthesis of nitrogen isotope data and an ongoing radiocarbon compilation. The goal is to reconstruct quantitatively how ocean carbon storage was affected by different processes, such as the biological pump, sea ice cover, ocean circulation, stratification, iron fertilization, sea level and sediment interactions. The project has the potential to improve our understanding of the deglacial ocean circulation, its carbon cycling, and the rise in atmospheric CO<sub>2</sub>. </p>
+
+<!--div>
+<h2> Opportunity for Postdoctoral Research </h2>
+<p>We're looking for a postdoctoral scientist, who is enthusiastic about paleoclimate research. The successful candidate will be involved in all aspects of the project, from data synthesis via modeling and analysis to publication. Modeling work will use the <a href="http://climate.uvic.ca/model/">UVic/<a href="http://people.oregonstate.edu/~schmita2/Models/MOBI/index.html">MOBI</a> model</a> for equilibrium simulations of the Last Glacial Maximum (LGM) and transient simulations of the early deglaciation. These simulations will consider impacts of changes in sea level on sedimentary iron and nitrogen fluxes, effects of dissolution/accumulation of calcium carbonate in sediments, changes in aeolian iron fluxes and their uncertainties, changes in wind and buoyancy driven ocean circulation, and changes in terrestrial carbon storage. Data synthesis will focus on benthic carbon isotopes by advancing and coordinating the ongoing OC3 project. Model-data comparison will start with the LGM and identify model versions that fit existing LGM data. These will be used as initial conditions for the deglacial transient simulations, which will be compared to the OC3 downcore data compilation and other existing and emerging datasets such as nitrogen isotopes, carbonate ion, and radiocarbon. To apply <a href="http://jobs.oregonstate.edu/postings/35898"> click here </a>.
+</div-->
+
+<div>
+<h2> Funded by </h2> <p>the National Science Foundation's Marine Geology and Geophysics Program</p>
+</div>
+
+
+<div><a id="results"><h2>Results</h2></a>
+</div><!--results-->
+
+<div><a id="data"><h2>Data</h2></a>
+<a class="publinks" href="https://www.ncdc.noaa.gov/paleo-search/study/21750"> Water Column &delta;<sup>13</sup>C<sub>DIC</sub> Data</a>
+<a class="publinks" href="https://www.ncdc.noaa.gov/paleo-search/study/22110"> Core-Top Sediment &delta;<sup>13</sup>C<sub>Cib</sub> Data</a>
+</div><!--Data-->
+
+<div id="publications" style="width:1100px;float:left">
+<a id="publications"><h2>Publications</h2></a>
+<li>Khatiwala, S., A. Schmittner and J. Muglia (2019)<br>
+<b>Air-sea disequilibrium enhances ocean carbon storage during glacial periods</b>
+<div class="journal"><i>Science Advances</i>, 5(6), doi: 10.1126/sciadv.aaw4981</div>
+<div class="publinks">
+<a class="publinks" href="https://advances.sciencemag.org/content/5/6/eaaw4981">html</a>
+<a class="publinks" href="https://advances.sciencemag.org/content/advances/5/6/eaaw4981.full.pdf">pdf</a-->
+<a class="publinks" href="https://today.oregonstate.edu/news/study-may-solve-long-standing-mystery-why-atmospheric-co2-was-lower-during-ice-ages"> OSU Press Release</a>
+<a class="publinks" href="https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=298738&WT.mc_id=USNSF_1"> NSF News</a>
+<a class="publinks" href="http://www.ox.ac.uk/news/science-blog/what-does-glass-prosecco-and-ice-age-ocean-have-common"> Oxford Science Blog</a>
+<a class="publinks" href="https://www.us-ocb.org/causes-90ppm-glacial-atm-co2-drawdown-debated/"> OCB Science Highlight</a>
+</div></li>
+
+<li>Muschitiello, F., W. J. D’Andrea, A. Schmittner, T. J. Heaton, M. L. Balascio, N. deRoberts, M. W. Caffee, T. E. Woodruff, K. C. Welten, L. C. Skinner, M. H. Simon and T. M. Dokken (2019)<br> 
+<b>Deep-water circulation changes lead North Atlantic climate during deglaciation</b>
+<div class="journal"><i>Nature Communications</i>, 10(1), 1272, <a class="publinks" href="https://doi.org/10.1038/s41467-019-09237-3">doi: 10.1038/s41467-019-09237-3</a>.</div>
+<div class="publinks">
+<a class="publinks" href="https://www.nature.com/articles/s41467-019-09237-3">html</a>
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/M/muschitiello19natcom.pdf">pdf</a>
+</div></li>
+
+<li>Muglia, J. Skinner, L., and A. Schmittner (2018)<br>
+<b>Weak overturning circulation and high Southern Ocean nutrient utilization maximized glacial ocean carbon</b>
+<div class="journal"><i>Earth and Planet. Sci. Let.</i>, 496, 47-56, <a class="publinks" href="http://doi.org/10.1016/j.epsl.2018.05.038">doi:10.1016/j.epsl.2018.05.038</a>.</div>
+<div class="publinks">
+<a class="publinks" href="https://www.sciencedirect.com/science/article/pii/S0012821X18303212">html</a>
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/M/muglia18epsl.pdf">pdf</a>
+<a class="publinks" href="https://www.us-ocb.org/constraints-glacial-overturning-circulation/">OCB Science Highlight</a>
+</div></li>
+
+<li>Muglia, J. Somes, C. J., Nickelsen, L., and A. Schmittner (2017)<br>
+<b>Combined Effects of Atmospheric and Seafloor Iron Fluxes to the Glacial Ocean</b>
+<div class="journal"><i>Paleoceanography</i>, 32(11), 1204-1218, doi:10.1002/2016PA003077.</div>
+<div class="publinks">
+<a class="publinks" href="http://onlinelibrary.wiley.com/doi/10.1002/2016PA003077/abstract">html</a>
+<a class="publinks" href="http://rdcu.be/CpQZ">pdf</a>
+<!a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/M/muglia17po.pdf">
+</div></li>
+
+<li>Schmittner, A., and C. J. Somes (2016)<br>
+<b>Complementary Constraints from Carbon (<sup>13</sup>C) and Nitrogen (<sup>15</sup>N) Isotopes on the Efficiency of the Glacial Ocean's Soft-Tissue Biological Pump </b>
+<div class="journal"><i>Paleoceanography</i>, 31, doi:10.1002/2015PA002905.</div>
+<div class="publinks">
+<a class="publinks" href="https://www.ncdc.noaa.gov/paleo/study/19842"> data</a>
+<a class="publinks" href="http://onlinelibrary.wiley.com/doi/10.1002/2015PA002905/full"> html</a>
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/S/schmittner16po.pdf"> pdf </a>
+</div></li>
+
+<li>Schmittner, A., H. C. Bostock, O. Cartapanis, W. B. Curry, H. L. Filipsson, E. D. Galbraith, J. Gottschalk, J. C. Herguera, S. Jaccard, L. E. Lisiecki, D. C. Lund, G. Mart&iacute;nez-M&eacute;ndez, J. Lynch-Stieglitz, A. Mackensen, E. Michel, A. C. Mix, D. W. Oppo, C. D. Peterson, E. L. Sikes, H. J. Spero, and C. Waelbroeck (2017)<br>
+<b>Calibration of the Carbon Isotope Composition (&delta;<sup>13</sup>C) of Epibenthic Foraminifera</b>
+<div class="journal"><i>Paleoceanography</i>, 32(6), doi:10.1002/2016PA003072.</div>
+<div class="publinks">
+<a class="publinks" href="http://onlinelibrary.wiley.com/doi/10.1002/2016PA003072/abstract">html</a> 
+<a class="publinks" href="http://people.oregonstate.edu/~schmita2/pdf/S/schmittner17po.pdf">pdf</a>
+</div></li>
+
+<li>Somes, C. J., Schmittner, A., Muglia, J. and A. Oschlies (2017)<br>
+<b>A three-dimensional model of the marine nitrogen cycle during the Last Glacial Maximum constrained by sedimentary isotopes</b>
+<div class="journal"><i>Frontiers in Marine Science</i>, 4, 108, doi:10.3389/fmars.2017.00108.</div>
+<div class="publinks">
+<a class="publinks" href="http://journal.frontiersin.org/article/10.3389/fmars.2017.00108/full">html</a>
+<a class="publinks" href="http://journal.frontiersin.org/article/10.3389/fmars.2017.00108/pdf"> pdf</a>
+</div></li>
+
+<a class="publinks" href="https://par.nsf.gov/search/term:1634719"> NSF Public Access Repository: </a>
+</div><!--Publications-->
+
+<div id="presentations" style="width:1100px;float:left">
+<a id="presentations"><h2>Presentations</h2></a>
+</div><!--Presentations-->
+
+<div id="outreach" style="width:1100px;float:left">
+<a id="outreach"><h2>Outreach</h2></a>
+</div><!--Outreach-->
+
+<div id="people" style="width:1100px;float:left">
+<a id="people"><h2>People</h2></a>
+<ul>
+<li><a href="http://people.oregonstate.edu/~schmita2/">Andreas Schmittner</a>, Principle Investigator<br>
+<li><a href="http://ceoas.oregonstate.edu/profile/mix/">Alan Mix</a>, Co-PI<br>
+<li><a href="http://ceoas.oregonstate.edu/profile/muglia/">Juan Muglia</a>, Postdoc<br>
+</ul>
+</div><!--People-->
+
+<br>
+
+</div><!--container-->

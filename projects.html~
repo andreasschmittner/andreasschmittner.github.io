@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Projects Andreas Schmittner</title>
+<link rel="stylesheet" type="text/css" href="test2.css">
+</head>
+<body>
+<h1> Andreas Schmittner's Research Projects</h1>
+<div id="header" style="height:150px;width:1100px">
+
+<div style="width:1200px;float:left;margin-bottom:25px;">
+<ul class="menue">
+<li class="menue"><a class="menue" href="index.html">Home</a></li>
+<li class="menue"><a class="menue" href="publications.html">Publications</a></li>
+<li class="menue"><a class="menue" href="projects.html">Projects</a></li>
+<li class="menue"><a class="menue" href="teaching.html">Teaching</a></li>
+<li class="menue"><a class="menue" href="models.html">Models</a></li>
+<li class="menue"><a class="menue" href="group.html">Group</a></li>
+<li class="menue"><a class="menue" href="climate_change.html">Climate Change</a></li>
+<li class="menue"><a class="menue" href="outreach.html">Outreach</a></li>
+<li class="menue"><a class="menue" href="presentations.html">Presentations</a></li>
+</ul>
+</div>
+
+<div id="container" style="width:1100px">
+
+<div id="links" style="float:right;width:150px">
+<ul class="menueright">
+<li><a class="menueright" href="Projects/OC3/index.html">OC3</a></li>
+<li><a class="menueright" href="http://wserv4.esc.cam.ac.uk/pastclimate/?page_id=14">IPODs</a></li>
+<li><a class="menueright" href="#completed">Completed Projects</a></li>
+</ul>
+</div>
+
+<div><h2>Pending Projects</h2>
+
+<ul>
+</ul>
+</div>
+<div><h2>Current Projects</h2>
+
+<li><h3><a href="Projects/OceanCarbon">NSFGEO-NERC: Quantifying the Modern and Glacial Ocean’s Carbon Cycle
+Including Isotopes</a></h3>
+Funded by: National Science Foundation's Chemical Oceanography Program<br>
+Award: 1924215<br>
+Period: 09/01/2019 to 08/31/2022<br>
+Amount: $431,527</br>
+PIs: Schmittner, Khatiwala<br>
+
+<ul>
+<li><h3><a href="Projects/BioPump">The Biological Pump During the Last Glacial Maximum and Early Deglaciation</a></h3>
+Funded by: National Science Foundation's Marine Geology and Geophysics Program<br>
+Award: 1634719<br>
+Period: 09/01/2016 to 08/31/2019 (NCE to 2020)<br>
+Amount: $497,913</br>
+PIs: Schmittner, Mix<br>
+
+</ul>
+</div>
+<div><h2><a id="completed">Completed Projects</a></h2>
+<ul>
+
+<li><h3><a href="Projects/LGM_tides">Collaborative Research: Assessing the Impact of Tidal Mixing on the Meridional Overturning Circulation of the Last Glacial Maximum</a></h3>
+Funded by: National Science Foundation's Physical Oceanography Program<br>
+Award: 1559153<br>
+Period: 02/01/2016 to 01/31/2018<br>
+Amount: $275,964</br>
+PIs: Schmittner, Danabasoglu<br>
+
+<li><h3><a href="Projects/OA">Effects of Acidification and Warming on Long-Term Ocean Carbon Cycling Constrained by Observations</a></h3>
+Funded by: National Science Foundation's Ocean Acidification Program<br>
+Award: 1416700<br>
+Period: 07/01/2014 to 06/01/2017<br>
+Amount: $259,788</br>
+PI: Schmittner<br>
+
+<li><h3><a href="Projects/AMOC">Modeling Effects of Greenland Ice Sheet Melting on AMOC Variability and Predictability</a></h3>
+Funded by: National Oceanographic and Atmospheric Administration<br>
+Award: NA13OAR4310133<br>
+Period: 09/01/2013 to 08/31/2016 (NCE to 2017)<br>
+Amount: $364,686</br>
+PIs: Schmittner, Hu, Mernhild<br>
+
+<li><h3><a href="Projects/LNC">Quantifying the Effect of the Lunar Nodal Tide on North Pacific Climate Variability</a></h3>
+Funded by: National Science Foundation's Physical Oceanography Program<br>
+Award: 1260680<br>
+Period: 03/15/2013 to 02/28/2015 (NCE to 2018)<br>
+Amount: $234,761<br>
+PIs: Schmittner, Egbert, Spitz<br>
+
+<li><h3><a href="Projects/LGM_CS">Estimating Climate Sensitivity From Temperature Reconstructions of the Last Glacial Maximum</a></h3>
+Funded by: National Science Foundation's Paleoclimate Perspectives on Climate Change (P2C2) Program<br>
+Award: 1204243<br>
+Period: 05/01/2012 to 04/28/2015 (NCE to 2017)<br>
+Amount: $345,345<br>
+PI: Schmittner<br>
+
+<li><h3><a href="Projects/PMIP">Assessing Climate Model Simulations of Last Glacial Maximum Ocean Circulation With Carbon Isotopes</a></h3>
+Funded by: National Science Foundation's Marine Geology and Geophysics Program<br>
+Award: 1235544<br>
+Period: 09/01/2012 to 08/31/2015 (NCE to 2016)<br>
+Amount: $95,391<br>
+PI: Schmittner, Khatiwala<br>
+
+<li><h3><a href="Projects/LGM">Reconstructing Glacial Nitrogen and Carbon Cycling Using Isotopes</a></h3>
+Funded by: National Science Foundation's Marine Geology and Geophysics Program<br>
+Award: 1131834<br>
+Period: 08/01/2011 to 07/31/2014<br>
+Amount: $508,279<br>
+PI: Schmittner, Mix<br>
+
+<li><h3>PALEOVAR: Past Climate Variability</h3>
+Period: 2006 to 2011<br>
+PIs: Pisias, Bartlein, Brook, Clark, Hostetler, Mix, Schmittner<br>
+
+<li><h3><a href="Projects/Nitrogen">Ocean Circulation, Oxygen and Nutrient Cycles During the Last Glacial</a></h3>
+Period 2007 to 2010<br>
+
+</ul>
+</div>

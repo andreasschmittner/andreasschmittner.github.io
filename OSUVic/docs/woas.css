@@ -1,0 +1,183 @@
+/* existent link */
+a.link {
+  color: blue;
+}
+a.link:hover {
+  text-decoration: underline;
+}
+
+/* unexistent link */
+a.unlink {
+  color: red;
+}
+a.unlink:hover {
+  text-decoration: underline;
+}
+
+/* outside world link */
+a.world {
+  color: darkgreen;
+  text-decoration: underline;
+}
+
+a {
+	cursor: pointer;
+	/* FOR IE5.5/IE6 */
+	/* cursor: hand; */
+}
+
+/* Main text */
+div.text_area {
+  border-width: 1pt;
+  border-color: grey;
+  border-style: solid;
+  background-color: white;
+  padding: 10pt;
+}
+
+/* since v0.9 */
+body { font-family: tahoma; }
+
+h1 { font-size: 23px; }
+
+h2 { font-size: 20px; }
+
+h3 { font-size: 17px; }
+
+h4 { font-size: 14px; }
+
+h5 { font-size: 12px; }
+
+h6 { font-size: 10px; }
+
+div.taglinks {
+	border: 1px solid #aaa;
+/*	background-color: #f9f9f9; */
+	padding: 5px;
+	margin-top: 1em;
+	clear: both;
+}
+
+div.search_results {
+	border: 1px solid #aaa;
+	background-color: #f9f9f9;
+	padding: 5px;
+	margin-top: 1em;
+	clear: both;
+}
+
+a.link.tag {
+  color: navy;
+}
+
+/* main wiki pane when locked */
+div.text_area.locked {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAAAAACMmsGiAAAALHRFWHRDcmVhdGlvbiBUaW1lAGdpbyAyOSBtYXIgMjAwNyAxMTo1MToxMCArMDEwME%2BTNUAAAAAHdElNRQfXAx0JNByGxueSAAAACXBIWXMAAAsSAAALEgHS3X78AAAABGdBTUEAALGPC%2FxhBQAAABlJREFUeNpj%2FM%2FwmYHpMwMvAxOQwcvECyQBO1oE%2BlG5iisAAAAASUVORK5CYII%3D);
+	background-color: #eeeeee;
+}
+
+div.menu {
+}
+
+/* page title */
+.title {
+  font-size: 24pt;
+  font-weight: bold;
+  margin-bottom: 0pt;
+  margin-top: 0pt;
+  display:inline;
+}
+
+.bg {
+	background-color: #F0F0F5;
+}
+
+#wiki_text {
+	position: relative;
+	left: 16%;
+	width: 81%;
+	z-index: 0;
+	text-align:justify;
+}
+
+table.text_area {
+	border-color: black;
+	border-spacing: 0px;
+	border-style: solid; 
+	border-width: 1px;
+}
+
+table.text_area td {
+	border-style: solid; 	 
+	border-width: 1px;	
+	padding: 5px;
+}
+
+/* Left menu */
+div.menu_area {
+	border-width: 1pt;
+	border-color: grey;
+	border-style: solid;
+	font-size: 9pt;
+	background-color: white;
+	padding: 5pt;
+	width: 13%;
+	left: 1%;
+}
+
+div.wiki_header {
+	top: 0px;
+	left: 0px;
+	border: 1px solid #aaa;
+	-moz-opacity:.75;opacity:.75;
+	z-index: 1;
+}
+
+div.wiki_toc {
+	border: 1px solid #aaa;
+	background-color: #f9f9f9;
+	padding: 5px;
+	width: 50%;
+	font-size: 95%;
+}
+
+div.wiki_toc ol, li {
+	margin-left: 0.65em;
+	padding-left: 0em;
+}
+
+p.wiki_toc_title {
+	font-weight: bold;
+	text-align: center;
+}
+
+/* since v0.9.3 Beta */
+.search_highlight { background-color: yellow; }
+
+#loading_overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	padding-top: 25%;
+	z-index: 100;
+	background-color: white;
+	font-size: large;
+	left: 0px;
+	top: 0px;
+	cursor: wait;
+}
+
+div.menu_area ul li, div.menu_area ol li,
+div.ns_menu_area ul li, div.ns_menu_area ol li {
+	margin-left: -2em;
+}
+
+/* since v0.9.4 Beta */
+.wiki_preformatted {
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
