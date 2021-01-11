@@ -1,0 +1,122 @@
+# Command file to extract model data files.
+#-------------------------------------------------------------------------------
+# See below for comments.
+#
+get_path
+echo "generating:"; cd grid
+
+# Comment out any fields not required.
+
+# the grid and kmt files must be generated first
+echo "grid"; cd ../grid; cp ../mk.in .; mk e; mk.exe
+echo "kmt"; cd ../kmt; cp ../mk.in .; mk e; mk.exe
+
+# the order of other files may also be important
+echo "a_calb"; cd ../a_calb; cp ../mk.in .; mk e; mk.exe
+echo "alk"; cd ../alk; cp ../mk.in .; mk e; mk.exe
+echo "anthco2"; cd ../anthco2; cp ../mk.in .; mk e; mk.exe
+echo "aou"; cd ../aou; cp ../mk.in .; mk e; mk.exe
+echo "bkgc14"; cd ../bkgc14; cp ../mk.in .; mk e; mk.exe
+echo "bombc14"; cd ../bombc14; cp ../mk.in .; mk e; mk.exe
+echo "c14"; cd ../c14; cp ../mk.in .; mk e; mk.exe
+echo "cfc11"; cd ../cfc11; cp ../mk.in .; mk e; mk.exe
+echo "cfc12"; cd ../cfc12; cp ../mk.in .; mk e; mk.exe
+echo "chlorophyll"; cd ../chlorophyll; cp ../mk.in .; mk e; mk.exe
+echo "co2"; cd ../co2; cp ../mk.in .; mk e; mk.exe
+echo "co2_emit"; cd ../co2_emit; cp ../mk.in .; mk e; mk.exe
+echo "crops"; cd ../crops; cp ../mk.in .; mk e; mk.exe
+echo "diff"; cd ../diff; cp ../mk.in .; mk e; mk.exe
+echo "dtr"; cd ../dtr; cp ../mk.in .; mk e; mk.exe
+echo "elev"; cd ../elev; cp ../mk.in .; mk e; mk.exe
+echo "frac"; cd ../frac; cp ../mk.in .; mk e; mk.exe
+echo "ice4g"; cd ../ice4g; cp ../mk.in .; mk e; mk.exe
+echo "iswr"; cd ../iswr; cp ../mk.in .; mk e; mk.exe
+echo "lgm_pot_veg"; cd ../lgm_pot_veg; cp ../mk.in .; mk e; mk.exe
+echo "lgm_tidal"; cd ../lgm_tidal; cp ../mk.in .; mk e; mk.exe
+echo "nitrate"; cd ../nitrate; cp ../mk.in .; mk e; mk.exe
+echo "o2sat"; cd ../o2sat; cp ../mk.in .; mk e; mk.exe
+echo "olwr"; cd ../olwr; cp ../mk.in .; mk e; mk.exe
+echo "oswr"; cd ../oswr; cp ../mk.in .; mk e; mk.exe
+echo "oxygen"; cd ../oxygen; cp ../mk.in .; mk e; mk.exe
+echo "palk"; cd ../palk; cp ../mk.in .; mk e; mk.exe
+echo "pcfc11"; cd ../pcfc11; cp ../mk.in .; mk e; mk.exe
+echo "pcfc12"; cd ../pcfc12; cp ../mk.in .; mk e; mk.exe
+echo "phosphate"; cd ../phosphate; cp ../mk.in .; mk e; mk.exe
+echo "precip"; cd ../precip; cp ../mk.in .; mk e; mk.exe
+echo "rhum"; cd ../rhum; cp ../mk.in .; mk e; mk.exe
+echo "rivers"; cd ../rivers; cp ../mk.in .; mk e; mk.exe
+echo "salinity"; cd ../salinity; cp ../mk.in .; mk e; mk.exe
+echo "sat"; cd ../sat; cp ../mk.in .; mk e; mk.exe
+echo "silicate"; cd ../silicate; cp ../mk.in .; mk e; mk.exe
+echo "solar"; cd ../solar; cp ../mk.in .; mk e; mk.exe
+echo "tco2"; cd ../tco2; cp ../mk.in .; mk e; mk.exe
+echo "temperature"; cd ../temperature; cp ../mk.in .; mk e; mk.exe
+echo "tidal"; cd ../tidal; cp ../mk.in .; mk e; mk.exe
+echo "tmsk"; cd ../tmsk; cp ../mk.in .; mk e; mk.exe
+echo "veg_class"; cd ../veg_class; cp ../mk.in .; mk e; mk.exe
+echo "veg_type"; cd ../veg_type; cp ../mk.in .; mk e; mk.exe
+echo "wind_adv"; cd ../wind_adv; cp ../mk.in .; mk e; mk.exe
+echo "wind_stress"; cd ../wind_stress; cp ../mk.in .; mk e; mk.exe
+echo "wind_surf"; cd ../wind_surf; cp ../mk.in .; mk e; mk.exe
+
+#-------------------------------------------------------------------------------
+# Please cite the data sources as requested by the authors.
+#
+# These routines expect data in "UVic_ESCM/data_source". If you do not have 
+# UVic_ESCM in your PATH environment variable, the correct path may not be 
+# found. You may change this path by editing "get_path" and/or the "path" file.
+# Routines will expect data in subdirectories. See the path variable in each 
+# extraction routine. If your source data files can not be found change the 
+# "get_path" or "path" file and/or the path variable in the fortran extraction
+# routines appropriately. See "Links" on the main model web page for links to
+# data source files. Many get renamed. 
+#
+# Most of the data extraction is automatic. Each directory has a fortran 
+# extraction routine (usually named "directory"_nc.f). The command file changes
+# into each directory and uses "mk" to create the netcdf file. Only the grid 
+# file must be defined but the extracted kmt and river data usually have to be
+# modified by hand.
+#
+# Any old files can be copied into the directory and their creation may be 
+# skipped as long as they are compatible with newly created files. To extract
+# data for a new model grid, the following procedure may be used:
+# 
+# 1) Make sure your data source files exist and that the path in each routine
+# will point to the correct location.
+# 
+# 2) Change to the "grid" directory and edit the grid_nc.f file. You can change
+# the grid rotation (psi, theta and psi) or resolution (xt(1), dxt, yt(1), dyt,
+# zw(1) and ddzw). Type "mk e" to create the grid.nc file one level up.
+# 
+# 3) Change to the kmt directory and edit the kmt_nc.f file. You may want to
+# comment or uncomment the calls to smooth or fill_bays. Smoothing is generally
+# not required but filling isolated bays is a good idea. You may wish to modify
+# the smoothing to only apply to certain areas (such as high latitudes). Make 
+# sure there is not a copy of kmt.map one level up (or it will be used instead
+# extracting new data) and type "mk e". Change to the directory one level up.
+# Edit the kmt.map file until you are happy with the bathymetry file. This is
+# where the "art" comes in. You generally want to eliminate isolated bodies of
+# water and make sure critical toughs or ridges are represented.
+# 
+# 4) Change to the rivers directory.  Make sure there is not a copy of 
+# "rivers.map" one level up (or it will be used instead of creating a new file) 
+# and type "mk e". Change to the directory one level up and look at "rivers.nc".
+# If necessary, copy the "rivers.tmp" file to "rivers.map" and edit it. You may
+# have to add discharge points and weights by hand. If you have made changes to
+# the "rivers.map" file, go back into the rivers directory and type "mk.exe" 
+# again to create "rivers.nc" from the edited "rivers.map" file.
+# 
+# 5) Look over other required extraction routines in their respective 
+# directories. Other files that may require attention are: diff_nc.f, elev_nc.f,
+# tmsk_nc.f, veg_class_nc.f and veg_type_nc.f. These routines may smooth, add 
+# ice shelves or set special values at high latitudes - look for places where 
+# "Warning:"s are printed in the code. Smoothing is generally recommended with
+# elevations to reduce the "noise" in the eventual model precipitation field.
+# 
+# 6) Edit the cmd file to extract only the data required. Commands that extract
+# other data may be commented out. Some files require other data files to 
+# already be extracted so the order of the commands may be important. Type "cmd"
+# and all data files should be created. 
+# 
+# 7) Copy the resulting netcdf and map files to an appropriate UVic_ESCM data
+# source directory.

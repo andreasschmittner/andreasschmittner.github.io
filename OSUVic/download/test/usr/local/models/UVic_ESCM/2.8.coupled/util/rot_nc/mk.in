@@ -1,0 +1,8 @@
+Version_Directory = 2.8
+Source_Directory[1] = ./
+Source_Directory[2] = source/netcdf
+Source_Directory[3] = source/rot
+Auto_Update = true
+No_Warnings = true
+Remote_Machine = false
+Updates_Level = latest
