@@ -1,0 +1,87 @@
+<html>
+
+<head>
+<title>Publications</title>
+<meta name="generator" content="Namo WebEditor v6.0">
+<script language="JavaScript">
+<!--
+function na_open_window(name, url, left, top, width, height, toolbar, menubar, statusbar, scrollbar, resizable)
+{
+  toolbar_str = toolbar ? 'yes' : 'no';
+  menubar_str = menubar ? 'yes' : 'no';
+  statusbar_str = statusbar ? 'yes' : 'no';
+  scrollbar_str = scrollbar ? 'yes' : 'no';
+  resizable_str = resizable ? 'yes' : 'no';
+
+  cookie_str = document.cookie;
+  cookie_str.toString();
+
+  pos_start  = cookie_str.indexOf(name);
+  pos_end    = cookie_str.indexOf('=', pos_start);
+
+  cookie_name = cookie_str.substring(pos_start, pos_end);
+
+  pos_start  = cookie_str.indexOf(name);
+  pos_start  = cookie_str.indexOf('=', pos_start);
+  pos_end    = cookie_str.indexOf(';', pos_start);
+  
+  if (pos_end <= 0) pos_end = cookie_str.length;
+  cookie_val = cookie_str.substring(pos_start + 1, pos_end);
+  if (cookie_name == name && cookie_val  == "done")
+    return;
+
+  window.open(url, name, 'left='+left+',top='+top+',width='+width+',height='+height+',toolbar='+toolbar_str+',menubar='+menubar_str+',status='+statusbar_str+',scrollbars='+scrollbar_str+',resizable='+resizable_str);
+}
+
+// --></script>
+</head>
+
+<body bgcolor="#666666" text="white" link="white" vlink="white" alink="white" style="scrollbar-face-color:rgb(153,153,153); scrollbar-shadow-color:black; scrollbar-highlight-color:black; scrollbar-3dlight-color:black; scrollbar-darkshadow-color:black; scrollbar-base-color:rgb(153,153,153); scrollbar-arrow-color:black; scrollbar-track-color:rgb(153,153,153);">
+<h1>Models</h1>
+<hr color="white"><div style="width:879; height:200; float:left;">
+    <dl>
+        <dt><span style="font-size:11pt;"><font face="Comic Sans MS"><b>We use a hierarchy of models ranging from a global Earth system Model of Intermediate Complexity (EMIC) via atmospheric general circulation models (AGCMs) from global to regional scales to process models on the local scale. Long time simulations covering e.g. the entire transition from the Last Glacial Maximum (LGM) to the present day will be performed with the EMIC </b></font><b><a href="javascript:na_open_window('win', 'http://www.climate.uvic.ca/model', 0, 0, 1100, 800, 1, 1, 1, 1, 1)" target="_self"><font face="Comic Sans MS" color="red">UVic</font></a></b><font face="Comic Sans MS"><b>-</b></font><b><a href="javascript:na_open_window('win', 'http://www.mi.uni-hamburg.de/PUMA.215.0.html?&L=', 0, 0, 1100, 800, 1, 1, 1, 1, 1)" target="_self"><font face="Comic Sans MS" color="red">PUMA2</font></a></b><font face="Comic Sans MS"><b>. Output from the EMIC will be used to force shorter simulations with the global AGCM GENESIS. Output from GENESIS will be used to force the regional climate model RegCM which in turn will be used to drive process models. Comparison with paleo observations are performed at all levels of the model hierarchy and will be used to test hypothesis concerning the mechanisms of past climate changes.</b></font></span></dt>
+        <dt><span style="font-size:11pt;"><font face="Comic Sans MS"><b>&nbsp;</b></font></span></dt>
+        <dt><span style="font-size:11pt;"><font face="Comic Sans MS"><b>PALEOVAR Model Hierarchy:</b></font></span></dt>
+        <dt>&nbsp;</dt>
+        <dt><img src="modeling.jpg" width="900" height="411" border="0"><font face="Comic Sans MS"><span style="font-size:11pt;"><b></b></span></font></dt>
+        <dt></dt>
+        <dt><font face="Comic Sans MS"><span style="font-size:11pt;"><b></b></span></font></dt>
+        <dt></dt>
+        <dt><font face="Comic Sans MS"><span style="font-size:11pt;"><b></b></span></font></dt>
+        <dt><font face="Comic Sans MS"><span style="font-size:11pt;"><b></b></span></font></dt>
+        <dt></dt>
+    </dl>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right">&nbsp;</p>
+<p align="right"><b><i><font face="Comic Sans MS"><span style="font-size:10pt;">last updated 11/8/06</span></font></i></b></p>
+</body>
+
+</html>

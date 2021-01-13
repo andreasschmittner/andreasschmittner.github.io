@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta name="GENERATOR" content="Namo WebEditor v6.0">
+<title>PALEOVAR</title>
+<meta http-equiv="Page-Exit" content="blendTrans(Duration=1)">
+</head>
+
+<frameset rows="24%, 8%, 1*" border="0">
+    <frame name="top" scrolling="auto" marginwidth="10" marginheight="14" src="banner_paleovar.htm" noresize>
+            <frame src="links_paleovar.htm">
+    <frameset cols="8%, 92%">
+        <frame src="funding_paleovar.htm" noresize>
+    <frame name="bottom" scrolling="auto" marginwidth="10" marginheight="14" src="body_paleovar.htm">
+    </frameset>
+    <noframes>
+    <body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+    <p>To view this page correctly, you need a Web browser that supports frames.</p>
+    </body>
+    </noframes>
+</frameset>
+
+</html>
+ 
